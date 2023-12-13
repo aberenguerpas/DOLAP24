@@ -1,0 +1,621 @@
+﻿estacion_id,estacion_nombre,sensor_id,sensor_alias,sensor_nombre,fecha_observacion,metrica,valor
+181,ERES,1132,WSP,Velocidad del viento,2017-12-01,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-01,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-01,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-01,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-02,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-02,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-02,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-02,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-03,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-03,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-03,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-03,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-04,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-04,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-04,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-04,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-05,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-05,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-05,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-05,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-06,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-06,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-06,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-06,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-07,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-07,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-07,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-07,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-08,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-08,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-08,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-08,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-09,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-09,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-09,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-09,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-10,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-10,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-10,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-10,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-11,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-11,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-11,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-11,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-12,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-12,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-12,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-12,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-13,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-13,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-13,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-13,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-14,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-14,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-14,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-14,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-15,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-15,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-15,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-15,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-16,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-16,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-16,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-16,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-17,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-17,media,3.11935
+181,ERES,1132,WSP,Velocidad del viento,2017-12-17,minimo,0.3
+181,ERES,1132,WSP,Velocidad del viento,2017-12-17,maximo,6.3
+181,ERES,1132,WSP,Velocidad del viento,2017-12-18,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-18,media,2.00942
+181,ERES,1132,WSP,Velocidad del viento,2017-12-18,minimo,0.0
+181,ERES,1132,WSP,Velocidad del viento,2017-12-18,maximo,4.8
+181,ERES,1132,WSP,Velocidad del viento,2017-12-19,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-19,media,3.9049
+181,ERES,1132,WSP,Velocidad del viento,2017-12-19,minimo,1.5
+181,ERES,1132,WSP,Velocidad del viento,2017-12-19,maximo,5.8
+181,ERES,1132,WSP,Velocidad del viento,2017-12-20,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-20,media,4.43427
+181,ERES,1132,WSP,Velocidad del viento,2017-12-20,minimo,2.8
+181,ERES,1132,WSP,Velocidad del viento,2017-12-20,maximo,6.1
+181,ERES,1132,WSP,Velocidad del viento,2017-12-21,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-21,media,2.68462
+181,ERES,1132,WSP,Velocidad del viento,2017-12-21,minimo,0.5
+181,ERES,1132,WSP,Velocidad del viento,2017-12-21,maximo,4.2
+181,ERES,1132,WSP,Velocidad del viento,2017-12-22,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-22,media,3.24126
+181,ERES,1132,WSP,Velocidad del viento,2017-12-22,minimo,0.9
+181,ERES,1132,WSP,Velocidad del viento,2017-12-22,maximo,4.6
+181,ERES,1132,WSP,Velocidad del viento,2017-12-23,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-23,media,3.82361
+181,ERES,1132,WSP,Velocidad del viento,2017-12-23,minimo,2.7
+181,ERES,1132,WSP,Velocidad del viento,2017-12-23,maximo,5.0
+181,ERES,1132,WSP,Velocidad del viento,2017-12-24,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-24,media,4.30417
+181,ERES,1132,WSP,Velocidad del viento,2017-12-24,minimo,3.0
+181,ERES,1132,WSP,Velocidad del viento,2017-12-24,maximo,5.7
+181,ERES,1132,WSP,Velocidad del viento,2017-12-25,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-25,media,4.54236
+181,ERES,1132,WSP,Velocidad del viento,2017-12-25,minimo,2.5
+181,ERES,1132,WSP,Velocidad del viento,2017-12-25,maximo,6.4
+181,ERES,1132,WSP,Velocidad del viento,2017-12-26,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-26,media,5.42292
+181,ERES,1132,WSP,Velocidad del viento,2017-12-26,minimo,3.3
+181,ERES,1132,WSP,Velocidad del viento,2017-12-26,maximo,7.1
+181,ERES,1132,WSP,Velocidad del viento,2017-12-27,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-27,media,5.78605
+181,ERES,1132,WSP,Velocidad del viento,2017-12-27,minimo,4.4
+181,ERES,1132,WSP,Velocidad del viento,2017-12-27,maximo,6.8
+181,ERES,1132,WSP,Velocidad del viento,2017-12-28,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-28,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-28,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-28,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-29,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-29,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-29,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-29,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-30,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-30,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-30,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-30,maximo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-31,total,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-31,media,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-31,minimo,
+181,ERES,1132,WSP,Velocidad del viento,2017-12-31,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-01,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-01,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-01,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-01,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-02,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-02,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-02,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-02,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-03,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-03,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-03,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-03,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-04,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-04,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-04,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-04,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-05,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-05,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-05,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-05,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-06,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-06,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-06,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-06,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-07,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-07,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-07,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-07,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-08,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-08,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-08,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-08,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-09,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-09,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-09,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-09,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-10,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-10,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-10,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-10,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-11,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-11,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-11,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-11,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-12,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-12,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-12,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-12,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-13,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-13,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-13,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-13,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-14,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-14,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-14,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-14,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-15,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-15,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-15,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-15,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-16,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-16,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-16,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-16,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-17,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-17,media,18.4242
+181,ERES,1134,TEMP,Temperatura,2017-12-17,minimo,16.5
+181,ERES,1134,TEMP,Temperatura,2017-12-17,maximo,20.8
+181,ERES,1134,TEMP,Temperatura,2017-12-18,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-18,media,18.3572
+181,ERES,1134,TEMP,Temperatura,2017-12-18,minimo,15.1
+181,ERES,1134,TEMP,Temperatura,2017-12-18,maximo,22.2
+181,ERES,1134,TEMP,Temperatura,2017-12-19,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-19,media,17.5517
+181,ERES,1134,TEMP,Temperatura,2017-12-19,minimo,14.8
+181,ERES,1134,TEMP,Temperatura,2017-12-19,maximo,20.3
+181,ERES,1134,TEMP,Temperatura,2017-12-20,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-20,media,17.5154
+181,ERES,1134,TEMP,Temperatura,2017-12-20,minimo,16.0
+181,ERES,1134,TEMP,Temperatura,2017-12-20,maximo,19.8
+181,ERES,1134,TEMP,Temperatura,2017-12-21,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-21,media,18.0455
+181,ERES,1134,TEMP,Temperatura,2017-12-21,minimo,14.4
+181,ERES,1134,TEMP,Temperatura,2017-12-21,maximo,22.2
+181,ERES,1134,TEMP,Temperatura,2017-12-22,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-22,media,17.2364
+181,ERES,1134,TEMP,Temperatura,2017-12-22,minimo,14.1
+181,ERES,1134,TEMP,Temperatura,2017-12-22,maximo,19.8
+181,ERES,1134,TEMP,Temperatura,2017-12-23,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-23,media,17.1444
+181,ERES,1134,TEMP,Temperatura,2017-12-23,minimo,15.9
+181,ERES,1134,TEMP,Temperatura,2017-12-23,maximo,19.1
+181,ERES,1134,TEMP,Temperatura,2017-12-24,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-24,media,16.8111
+181,ERES,1134,TEMP,Temperatura,2017-12-24,minimo,15.4
+181,ERES,1134,TEMP,Temperatura,2017-12-24,maximo,18.9
+181,ERES,1134,TEMP,Temperatura,2017-12-25,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-25,media,16.6861
+181,ERES,1134,TEMP,Temperatura,2017-12-25,minimo,15.0
+181,ERES,1134,TEMP,Temperatura,2017-12-25,maximo,18.9
+181,ERES,1134,TEMP,Temperatura,2017-12-26,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-26,media,16.9965
+181,ERES,1134,TEMP,Temperatura,2017-12-26,minimo,15.1
+181,ERES,1134,TEMP,Temperatura,2017-12-26,maximo,19.5
+181,ERES,1134,TEMP,Temperatura,2017-12-27,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-27,media,15.614
+181,ERES,1134,TEMP,Temperatura,2017-12-27,minimo,14.7
+181,ERES,1134,TEMP,Temperatura,2017-12-27,maximo,16.0
+181,ERES,1134,TEMP,Temperatura,2017-12-28,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-28,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-28,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-28,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-29,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-29,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-29,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-29,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-30,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-30,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-30,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-30,maximo,
+181,ERES,1134,TEMP,Temperatura,2017-12-31,total,
+181,ERES,1134,TEMP,Temperatura,2017-12-31,media,
+181,ERES,1134,TEMP,Temperatura,2017-12-31,minimo,
+181,ERES,1134,TEMP,Temperatura,2017-12-31,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-01,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-01,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-01,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-01,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-02,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-02,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-02,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-02,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-03,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-03,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-03,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-03,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-04,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-04,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-04,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-04,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-05,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-05,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-05,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-05,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-06,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-06,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-06,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-06,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-07,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-07,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-07,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-07,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-08,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-08,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-08,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-08,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-09,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-09,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-09,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-09,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-10,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-10,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-10,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-10,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-11,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-11,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-11,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-11,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-12,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-12,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-12,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-12,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-13,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-13,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-13,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-13,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-14,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-14,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-14,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-14,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-15,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-15,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-15,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-15,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-16,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-16,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-16,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-16,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-17,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-17,media,61.0403
+181,ERES,1135,HUM,Humedad relativa,2017-12-17,minimo,50.8
+181,ERES,1135,HUM,Humedad relativa,2017-12-17,maximo,80.6
+181,ERES,1135,HUM,Humedad relativa,2017-12-18,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-18,media,60.5355
+181,ERES,1135,HUM,Humedad relativa,2017-12-18,minimo,46.7
+181,ERES,1135,HUM,Humedad relativa,2017-12-18,maximo,73.1
+181,ERES,1135,HUM,Humedad relativa,2017-12-19,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-19,media,64.3783
+181,ERES,1135,HUM,Humedad relativa,2017-12-19,minimo,53.2
+181,ERES,1135,HUM,Humedad relativa,2017-12-19,maximo,72.5
+181,ERES,1135,HUM,Humedad relativa,2017-12-20,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-20,media,70.0811
+181,ERES,1135,HUM,Humedad relativa,2017-12-20,minimo,59.6
+181,ERES,1135,HUM,Humedad relativa,2017-12-20,maximo,85.3
+181,ERES,1135,HUM,Humedad relativa,2017-12-21,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-21,media,68.2965
+181,ERES,1135,HUM,Humedad relativa,2017-12-21,minimo,38.3
+181,ERES,1135,HUM,Humedad relativa,2017-12-21,maximo,86.7
+181,ERES,1135,HUM,Humedad relativa,2017-12-22,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-22,media,70.1811
+181,ERES,1135,HUM,Humedad relativa,2017-12-22,minimo,41.0
+181,ERES,1135,HUM,Humedad relativa,2017-12-22,maximo,81.7
+181,ERES,1135,HUM,Humedad relativa,2017-12-23,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-23,media,70.9854
+181,ERES,1135,HUM,Humedad relativa,2017-12-23,minimo,63.9
+181,ERES,1135,HUM,Humedad relativa,2017-12-23,maximo,81.4
+181,ERES,1135,HUM,Humedad relativa,2017-12-24,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-24,media,74.1556
+181,ERES,1135,HUM,Humedad relativa,2017-12-24,minimo,66.1
+181,ERES,1135,HUM,Humedad relativa,2017-12-24,maximo,79.4
+181,ERES,1135,HUM,Humedad relativa,2017-12-25,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-25,media,68.016
+181,ERES,1135,HUM,Humedad relativa,2017-12-25,minimo,60.6
+181,ERES,1135,HUM,Humedad relativa,2017-12-25,maximo,77.1
+181,ERES,1135,HUM,Humedad relativa,2017-12-26,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-26,media,62.9632
+181,ERES,1135,HUM,Humedad relativa,2017-12-26,minimo,52.3
+181,ERES,1135,HUM,Humedad relativa,2017-12-26,maximo,89.0
+181,ERES,1135,HUM,Humedad relativa,2017-12-27,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-27,media,53.6349
+181,ERES,1135,HUM,Humedad relativa,2017-12-27,minimo,47.3
+181,ERES,1135,HUM,Humedad relativa,2017-12-27,maximo,74.5
+181,ERES,1135,HUM,Humedad relativa,2017-12-28,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-28,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-28,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-28,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-29,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-29,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-29,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-29,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-30,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-30,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-30,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-30,maximo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-31,total,
+181,ERES,1135,HUM,Humedad relativa,2017-12-31,media,
+181,ERES,1135,HUM,Humedad relativa,2017-12-31,minimo,
+181,ERES,1135,HUM,Humedad relativa,2017-12-31,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-01,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-01,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-01,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-01,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-02,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-02,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-02,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-02,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-03,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-03,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-03,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-03,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-04,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-04,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-04,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-04,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-05,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-05,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-05,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-05,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-06,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-06,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-06,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-06,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-07,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-07,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-07,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-07,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-08,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-08,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-08,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-08,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-09,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-09,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-09,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-09,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-10,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-10,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-10,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-10,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-11,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-11,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-11,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-11,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-12,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-12,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-12,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-12,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-13,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-13,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-13,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-13,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-14,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-14,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-14,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-14,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-15,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-15,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-15,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-15,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-16,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-16,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-16,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-16,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-17,total,0.3
+181,ERES,1136,RAIN,Precipitación,2017-12-17,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-17,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-17,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-18,total,0.4
+181,ERES,1136,RAIN,Precipitación,2017-12-18,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-18,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-18,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-19,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-19,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-19,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-19,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-20,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-20,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-20,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-20,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-21,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-21,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-21,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-21,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-22,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-22,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-22,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-22,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-23,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-23,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-23,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-23,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-24,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-24,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-24,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-24,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-25,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-25,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-25,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-25,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-26,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-26,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-26,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-26,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-27,total,0.0
+181,ERES,1136,RAIN,Precipitación,2017-12-27,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-27,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-27,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-28,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-28,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-28,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-28,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-29,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-29,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-29,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-29,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-30,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-30,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-30,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-30,maximo,
+181,ERES,1136,RAIN,Precipitación,2017-12-31,total,
+181,ERES,1136,RAIN,Precipitación,2017-12-31,media,
+181,ERES,1136,RAIN,Precipitación,2017-12-31,minimo,
+181,ERES,1136,RAIN,Precipitación,2017-12-31,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-01,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-01,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-01,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-01,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-02,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-02,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-02,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-02,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-03,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-03,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-03,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-03,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-04,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-04,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-04,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-04,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-05,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-05,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-05,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-05,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-06,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-06,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-06,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-06,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-07,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-07,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-07,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-07,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-08,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-08,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-08,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-08,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-09,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-09,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-09,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-09,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-10,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-10,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-10,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-10,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-11,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-11,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-11,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-11,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-12,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-12,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-12,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-12,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-13,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-13,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-13,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-13,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-14,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-14,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-14,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-14,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-15,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-15,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-15,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-15,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-16,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-16,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-16,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-16,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-17,total,3523.0
+181,ERES,1138,RAD,Radiación solar,2017-12-17,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-17,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-17,maximo,2238.0
+181,ERES,1138,RAD,Radiación solar,2017-12-18,total,28527.0
+181,ERES,1138,RAD,Radiación solar,2017-12-18,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-18,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-18,maximo,759.0
+181,ERES,1138,RAD,Radiación solar,2017-12-19,total,28606.0
+181,ERES,1138,RAD,Radiación solar,2017-12-19,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-19,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-19,maximo,759.0
+181,ERES,1138,RAD,Radiación solar,2017-12-20,total,24296.0
+181,ERES,1138,RAD,Radiación solar,2017-12-20,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-20,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-20,maximo,817.0
+181,ERES,1138,RAD,Radiación solar,2017-12-21,total,27274.0
+181,ERES,1138,RAD,Radiación solar,2017-12-21,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-21,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-21,maximo,765.0
+181,ERES,1138,RAD,Radiación solar,2017-12-22,total,29261.0
+181,ERES,1138,RAD,Radiación solar,2017-12-22,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-22,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-22,maximo,789.0
+181,ERES,1138,RAD,Radiación solar,2017-12-23,total,29656.0
+181,ERES,1138,RAD,Radiación solar,2017-12-23,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-23,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-23,maximo,785.0
+181,ERES,1138,RAD,Radiación solar,2017-12-24,total,29876.0
+181,ERES,1138,RAD,Radiación solar,2017-12-24,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-24,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-24,maximo,786.0
+181,ERES,1138,RAD,Radiación solar,2017-12-25,total,30239.0
+181,ERES,1138,RAD,Radiación solar,2017-12-25,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-25,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-25,maximo,788.0
+181,ERES,1138,RAD,Radiación solar,2017-12-26,total,27769.0
+181,ERES,1138,RAD,Radiación solar,2017-12-26,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-26,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-26,maximo,809.0
+181,ERES,1138,RAD,Radiación solar,2017-12-27,total,0.0
+181,ERES,1138,RAD,Radiación solar,2017-12-27,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-27,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-27,maximo,0.0
+181,ERES,1138,RAD,Radiación solar,2017-12-28,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-28,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-28,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-28,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-29,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-29,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-29,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-29,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-30,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-30,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-30,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-30,maximo,
+181,ERES,1138,RAD,Radiación solar,2017-12-31,total,
+181,ERES,1138,RAD,Radiación solar,2017-12-31,media,
+181,ERES,1138,RAD,Radiación solar,2017-12-31,minimo,
+181,ERES,1138,RAD,Radiación solar,2017-12-31,maximo,

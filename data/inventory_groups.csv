@@ -1,0 +1,301 @@
+FID,groupname,description,enable,group_parent_id,type,pt,subtype,layer
+inventory_groups.666,ESCALERA,,1,569,LOC,,0,
+inventory_groups.157,Usos Multiples,,1,2,LOC,POINT (-5.786517080723425 38.973792536227286),0,
+inventory_groups.170,TEMPERATURA,,1,169,CON,,0,null
+inventory_groups.176,HUMEDAD,,1,169,CON,,0,null
+inventory_groups.169,Temperatura y Humedad,,1,157,LOG,POINT (-5.786536987743458 38.97377376906681),6,null
+inventory_groups.195,Temperatura y Humedad,,1,159,LOG,POINT (-5.786662381014903 38.973636664382454),6,null
+inventory_groups.159,Piscinas,,1,2,LOC,POINT (-5.786680695473333 38.97360590702141),0,
+inventory_groups.205,HUMEDAD,,1,195,CON,,0,null
+inventory_groups.221,ARMONICOS_TENSION,,1,217,COS,,0,null
+inventory_groups.217,Analizador General,,1,2,LOG,POINT (-5.786357525822645 38.97375711998078),1,null
+inventory_groups.196,TEMPERATURA,,1,195,CON,,0,null
+inventory_groups.219,FACTOR_POTENCIA,,1,217,COS,,0,null
+inventory_groups.222,ARMONICOS_INTENSIDAD,,1,217,COS,,0,null
+inventory_groups.220,ENERGIA_REACTIVA,,1,217,COS,,0,null
+inventory_groups.227,ARMONICOS_TENSION,,1,223,COS,,0,null
+inventory_groups.223,Analizador Climatizadores,,1,2,LOG,,1,null
+inventory_groups.218,POTENCIA_ACTIVA,,1,217,COS,,0,null
+inventory_groups.224,POTENCIA_ACTIVA,,1,223,COS,,0,null
+inventory_groups.226,ENERGIA_REACTIVA,,1,223,COS,,0,null
+inventory_groups.228,ARMONICOS_INTENSIDAD,,1,223,COS,,0,null
+inventory_groups.225,FACTOR_POTENCIA,,1,223,COS,,0,null
+inventory_groups.230,POTENCIA_ACTIVA,,1,229,COS,,0,null
+inventory_groups.229,Analizador Cafeteria,,1,2,LOG,,1,null
+inventory_groups.232,FACTOR_POTENCIA,,1,229,COS,,0,null
+inventory_groups.235,ARMONICOS_INTENSIDAD,,1,229,COS,,0,null
+inventory_groups.234,ARMONICOS_TENSION,,1,229,COS,,0,null
+inventory_groups.233,ENERGIA_REACTIVA,,1,229,COS,,0,null
+inventory_groups.236,Analizador Piscina Grande,,1,2,LOG,POINT (-5.786164838823267 38.9738719658672),1,null
+inventory_groups.239,ENERGIA_REACTIVA,,1,236,COS,,0,null
+inventory_groups.238,FACTOR_POTENCIA,,1,236,COS,,0,null
+inventory_groups.237,POTENCIA_ACTIVA,,1,236,COS,,0,null
+inventory_groups.241,ARMONICOS_INTENSIDAD,,1,236,COS,,0,null
+inventory_groups.240,ARMONICOS_TENSION,,1,236,COS,,0,null
+inventory_groups.242,Analizador Piscina Pequeña,,1,2,LOG,,1,null
+inventory_groups.245,ENERGIA_REACTIVA,,1,242,COS,,0,null
+inventory_groups.244,FACTOR_POTENCIA,,1,242,COS,,0,null
+inventory_groups.243,POTENCIA_ACTIVA,,1,242,COS,,0,null
+inventory_groups.246,ARMONICOS_TENSION,,1,242,COS,,0,null
+inventory_groups.249,POTENCIA_ACTIVA,,1,248,COS,,0,null
+inventory_groups.248,Analizador Usos Multiples,,1,2,LOG,,1,null
+inventory_groups.247,ARMONICOS_INTENSIDAD,,1,242,COS,,0,null
+inventory_groups.251,ENERGIA_REACTIVA,,1,248,COS,,0,null
+inventory_groups.250,FACTOR_POTENCIA,,1,248,COS,,0,null
+inventory_groups.252,ARMONICOS_TENSION,,1,248,COS,,0,null
+inventory_groups.253,ARMONICOS_INTENSIDAD,,1,248,COS,,0,null
+inventory_groups.503,Analizador Fancoils_Despachos,,1,2,LOG,,1,null
+inventory_groups.509,Analizador Despachos_Aseos,,1,2,LOG,,1,null
+inventory_groups.512,ENERGIA_REACTIVA,,1,509,COS,,0,null
+inventory_groups.510,POTENCIA_ACTIVA,,1,509,COS,,0,null
+inventory_groups.7,Iberdrola,,1,1,LOC,POINT (-5.800338791769873 38.97394374878823),0,
+inventory_groups.118,Calefacción Gas,,1,7,LOG,POINT (-5.80040517644299 38.97374043805227),2,null
+inventory_groups.127,T_RENDIMIENTO_GEN,,1,118,COS,,0,null
+inventory_groups.125,T_CAUDAL,,1,118,COS,,0,null
+inventory_groups.75,Temperatura y Humedad,,1,74,LOG,POINT (-5.800396887636412 38.97384412770276),6,null
+inventory_groups.76,TEMPERATURA,,1,75,CON,,0,null
+inventory_groups.20,Temperatura y Humedad,,1,8,LOG,POINT (-5.800617445337901 38.97383265207463),6,null
+inventory_groups.82,HUMEDAD,,1,75,CON,,0,null
+inventory_groups.122,T_POTENCIA_TERMICA_UTIL,,1,118,COS,,0,null
+inventory_groups.120,T_POTENCIA_TERMICA_ABSORBIDA,,1,118,COS,,0,null
+inventory_groups.511,FACTOR_POTENCIA,,1,509,COS,,0,null
+inventory_groups.8,Servicios Sociales,,1,9,LOC,,0,
+inventory_groups.9,Planta Primera,,1,7,LOC,,0,
+inventory_groups.21,TEMPERATURA,,1,20,CON,,0,null
+inventory_groups.10,Azotea,,1,7,LOC,,0,
+inventory_groups.27,HUMEDAD,,1,20,CON,,0,null
+inventory_groups.74,TH Ambiente,,1,10,LOC,POINT (-5.800453068712031 38.97386550710245),0,
+inventory_groups.121,T_TEMPERATURA_RETORNO,,1,118,COS,,0,null
+inventory_groups.126,T_TEMPERATURA_IMPULSION,,1,118,COS,,0,null
+inventory_groups.2,Piscina,,1,1,LOC,POINT (-5.7858670503943035 38.97376136108997),0,
+inventory_groups.569,BibliotecaPublica,biblioteca,1,1,LOC,,0,
+inventory_groups.576,AR2-PLBAJA,,1,569,LOG,,1,null
+inventory_groups.577,POTENCIA_ACTIVA,,1,576,COS,,0,null
+inventory_groups.578,FACTOR_POTENCIA,,1,576,COS,,0,null
+inventory_groups.579,ENERGIA_REACTIVA,,1,576,COS,,0,null
+inventory_groups.580,ARMONICOS_TENSION,,1,576,COS,,0,null
+inventory_groups.581,ARMONICOS_INTENSIDAD,,1,576,COS,,0,null
+inventory_groups.582,AR3-PLPRIMERA,,1,569,LOG,,1,null
+inventory_groups.583,POTENCIA_ACTIVA,,1,582,COS,,0,null
+inventory_groups.584,FACTOR_POTENCIA,,1,582,COS,,0,null
+inventory_groups.585,ENERGIA_REACTIVA,,1,582,COS,,0,null
+inventory_groups.586,ARMONICOS_TENSION,,1,582,COS,,0,null
+inventory_groups.587,ARMONICOS_INTENSIDAD,,1,582,COS,,0,null
+inventory_groups.601,TEMPERATURA,,1,600,CON,,0,null
+inventory_groups.610,TEMPERATURA,,1,609,CON,,0,null
+inventory_groups.613,TEMPERATURA,,1,612,CON,,0,null
+inventory_groups.615,AR-GEN,,1,569,LOG,,1,null
+inventory_groups.616,POTENCIA_ACTIVA,,1,615,COS,,0,null
+inventory_groups.617,FACTOR_POTENCIA,,1,615,COS,,0,null
+inventory_groups.618,ENERGIA_REACTIVA,,1,615,COS,,0,null
+inventory_groups.619,ARMONICOS_TENSION,,1,615,COS,,0,null
+inventory_groups.620,ARMONICOS_INTENSIDAD,,1,615,COS,,0,null
+inventory_groups.621,AR4-UD-CLIM,,1,569,LOG,,1,null
+inventory_groups.622,POTENCIA_ACTIVA,,1,621,COS,,0,null
+inventory_groups.623,FACTOR_POTENCIA,,1,621,COS,,0,null
+inventory_groups.624,ENERGIA_REACTIVA,,1,621,COS,,0,null
+inventory_groups.625,ARMONICOS_TENSION,,1,621,COS,,0,null
+inventory_groups.626,ARMONICOS_INTENSIDAD,,1,621,COS,,0,null
+inventory_groups.600,TH1-RECEP,,1,664,LOG,,6,null
+inventory_groups.609,TH2-ESC,,1,666,LOG,,6,null
+inventory_groups.612,TH3-PPRIM,,1,665,LOG,,6,null
+inventory_groups.254,Temperatura y Humedad,,1,158,LOG,POINT (-5.786325093231278 38.97373649538613),6,null
+inventory_groups.261,HUMEDAD,,1,254,CON,,0,null
+inventory_groups.255,TEMPERATURA,,1,254,CON,,0,null
+inventory_groups.264,POTENCIA_ACTIVA,,1,263,COS,,0,null
+inventory_groups.263,Analizador Hidromasaje,,1,2,LOG,,1,null
+inventory_groups.265,FACTOR_POTENCIA,,1,263,COS,,0,null
+inventory_groups.268,ARMONICOS_INTENSIDAD,,1,263,COS,,0,null
+inventory_groups.267,ARMONICOS_TENSION,,1,263,COS,,0,null
+inventory_groups.266,ENERGIA_REACTIVA,,1,263,COS,,0,null
+inventory_groups.271,POTENCIA_ACTIVA,,1,270,COS,,0,null
+inventory_groups.270,Analizador Terma,,1,2,LOG,,1,null
+inventory_groups.273,ENERGIA_REACTIVA,,1,270,COS,,0,null
+inventory_groups.272,FACTOR_POTENCIA,,1,270,COS,,0,null
+inventory_groups.275,ARMONICOS_INTENSIDAD,,1,270,COS,,0,null
+inventory_groups.274,ARMONICOS_TENSION,,1,270,COS,,0,null
+inventory_groups.276,Analizador Extractores,,1,2,LOG,,1,null
+inventory_groups.277,POTENCIA_ACTIVA,,1,276,COS,,0,null
+inventory_groups.279,ENERGIA_REACTIVA,,1,276,COS,,0,null
+inventory_groups.278,FACTOR_POTENCIA,,1,276,COS,,0,null
+inventory_groups.281,ARMONICOS_INTENSIDAD,,1,276,COS,,0,null
+inventory_groups.280,ARMONICOS_TENSION,,1,276,COS,,0,null
+inventory_groups.283,A_CONTADOR_AGUA,,1,282,COS,,0,null
+inventory_groups.282,Consumo Agua,,1,2,LOG,POINT (-5.786607641813285 38.9737988247849),3,null
+inventory_groups.294,Calefaccion Gas,,1,2,LOG,POINT (-5.7868021019668685 38.97373001184495),2,null
+inventory_groups.296,T_TEMPERATURA_RETORNO,,1,294,COS,,0,null
+inventory_groups.299,T_TEMPERATURA_IMPULSION,,1,294,COS,,0,null
+inventory_groups.505,FACTOR_POTENCIA,,1,503,COS,,0,null
+inventory_groups.504,POTENCIA_ACTIVA,,1,503,COS,,0,null
+inventory_groups.506,ENERGIA_REACTIVA,,1,503,COS,,0,null
+inventory_groups.633,AR5-ASC,,1,569,LOG,,1,null
+inventory_groups.634,POTENCIA_ACTIVA,,1,633,COS,,0,null
+inventory_groups.635,FACTOR_POTENCIA,,1,633,COS,,0,null
+inventory_groups.129,A_CONTADOR_AGUA,,1,128,COS,,0,null
+inventory_groups.636,ENERGIA_REACTIVA,,1,633,COS,,0,null
+inventory_groups.128,Consumo Agua,,1,7,LOG,POINT (-5.800320854497085 38.9738752401074),3,null
+inventory_groups.637,ARMONICOS_TENSION,,1,633,COS,,0,null
+inventory_groups.638,ARMONICOS_INTENSIDAD,,1,633,COS,,0,null
+inventory_groups.298,T_CAUDAL,,1,294,COS,,0,null
+inventory_groups.295,T_POTENCIA_TERMICA_ABSORBIDA,,1,294,COS,,0,null
+inventory_groups.297,T_POTENCIA_TERMICA_UTIL,,1,294,COS,,0,null
+inventory_groups.300,T_RENDIMIENTO_GEN,,1,294,COS,,0,null
+inventory_groups.642,HUMEDAD,,1,640,CON,,0,null
+inventory_groups.640,TH-ESC,,1,666,LOG,,6,null
+inventory_groups.655,HUM-PPRIM,,1,665,LOG,,6,null
+inventory_groups.648,HUMEDAD,,1,646,CON,,0,null
+inventory_groups.57,HUMEDAD,,1,48,CON,,0,null
+inventory_groups.87,POTENCIA_ACTIVA,,1,86,COS,,0,null
+inventory_groups.86,Analizador General,,1,7,LOG,POINT (-5.800547563856874 38.97371869217371),1,null
+inventory_groups.89,ENERGIA_REACTIVA,,1,86,COS,,0,null
+inventory_groups.88,FACTOR_POTENCIA,,1,86,COS,,0,null
+inventory_groups.90,ARMONICOS_TENSION,,1,86,COS,,0,null
+inventory_groups.515,ARMONICOS_INTENSIDAD,,1,102,COS,,0,null
+inventory_groups.102,Analizador Planta 1,,1,7,LOG,,0,null
+inventory_groups.101,ARMONICOS_INTENSIDAD,,1,86,COS,,0,null
+inventory_groups.103,POTENCIA_ACTIVA,,1,102,COS,,0,null
+inventory_groups.107,ARMONICOS_TENSION,,1,102,COS,,0,null
+inventory_groups.105,ENERGIA_REACTIVA,,1,102,COS,,0,null
+inventory_groups.104,FACTOR_POTENCIA,,1,102,COS,,0,null
+inventory_groups.131,POTENCIA_ACTIVA,,1,130,COS,,0,null
+inventory_groups.130,Analizador Planta 2,,1,7,LOG,,0,null
+inventory_groups.132,FACTOR_POTENCIA,,1,130,COS,,0,null
+inventory_groups.135,ARMONICOS_INTENSIDAD,,1,130,COS,,0,null
+inventory_groups.134,ARMONICOS_TENSION,,1,130,COS,,0,null
+inventory_groups.133,ENERGIA_REACTIVA,,1,130,COS,,0,null
+inventory_groups.662,HUMEDAD,,1,655,CON,,0,null
+inventory_groups.664,P-BAJA,,1,569,LOC,,0,
+inventory_groups.646,HREC,,1,664,LOG,,6,null
+inventory_groups.665,P-PRIMERA,,1,569,LOC,,0,
+inventory_groups.161,TEMPERATURA,,1,160,CON,,0,null
+inventory_groups.158,Pasillo,,1,2,LOC,POINT (-5.786310550629277 38.973742490454995),0,
+inventory_groups.363,Analizador Alumbrado Intervencion Recaudacion,,1,154,LOG,,0,null
+inventory_groups.136,Analizador Castillete,,1,7,LOG,,0,null
+inventory_groups.139,ENERGIA_REACTIVA,,1,136,COS,,0,null
+inventory_groups.138,FACTOR_POTENCIA,,1,136,COS,,0,null
+inventory_groups.137,POTENCIA_ACTIVA,,1,136,COS,,0,null
+inventory_groups.141,ARMONICOS_INTENSIDAD,,1,136,COS,,0,null
+inventory_groups.140,ARMONICOS_TENSION,,1,136,COS,,0,null
+inventory_groups.142,Analizador SAI,,1,7,LOG,,0,null
+inventory_groups.145,ENERGIA_REACTIVA,,1,142,COS,,0,null
+inventory_groups.144,FACTOR_POTENCIA,,1,142,COS,,0,null
+inventory_groups.143,POTENCIA_ACTIVA,,1,142,COS,,0,null
+inventory_groups.146,ARMONICOS_TENSION,,1,142,COS,,0,null
+inventory_groups.149,POTENCIA_ACTIVA,,1,148,COS,,0,null
+inventory_groups.148,Analizador Planta 0,,1,7,LOG,,0,null
+inventory_groups.147,ARMONICOS_INTENSIDAD,,1,142,COS,,0,null
+inventory_groups.151,ENERGIA_REACTIVA,,1,148,COS,,0,null
+inventory_groups.150,FACTOR_POTENCIA,,1,148,COS,,0,null
+inventory_groups.152,ARMONICOS_TENSION,,1,148,COS,,0,null
+inventory_groups.301,Planta Baja,,1,154,LOC,,0,
+inventory_groups.154,Ayuntamiento,,1,1,LOC,POINT (-5.800698392070377 38.97400109961678),0,
+inventory_groups.153,ARMONICOS_INTENSIDAD,,1,148,COS,,0,null
+inventory_groups.303,Patio Interior,,1,301,LOC,,0,
+inventory_groups.359,HUMEDAD,,1,352,CON,,0,null
+inventory_groups.353,TEMPERATURA,,1,352,CON,,0,null
+inventory_groups.352,Temperatura y Humedad,,1,303,LOG,POINT (-5.800706365355772 38.97419606869335),6,null
+inventory_groups.362,A_CONTADOR_AGUA,,1,361,COS,,0,null
+inventory_groups.361,Consumo Agua,,1,154,LOG,POINT (-5.800784222758853 38.97403759119602),3,null
+inventory_groups.364,POTENCIA_ACTIVA,,1,363,COS,,0,null
+inventory_groups.367,ARMONICOS_TENSION,,1,363,COS,,0,null
+inventory_groups.366,ENERGIA_REACTIVA,,1,363,COS,,0,null
+inventory_groups.365,FACTOR_POTENCIA,,1,363,COS,,0,null
+inventory_groups.369,Analizador Alumbrado Gabinete,,1,154,LOG,,0,null
+inventory_groups.368,ARMONICOS_INTENSIDAD,,1,363,COS,,0,null
+inventory_groups.370,POTENCIA_ACTIVA,,1,369,COS,,0,null
+inventory_groups.373,ARMONICOS_TENSION,,1,369,COS,,0,null
+inventory_groups.372,ENERGIA_REACTIVA,,1,369,COS,,0,null
+inventory_groups.371,FACTOR_POTENCIA,,1,369,COS,,0,null
+inventory_groups.374,ARMONICOS_INTENSIDAD,,1,369,COS,,0,null
+inventory_groups.377,FACTOR_POTENCIA,,1,375,COS,,0,null
+inventory_groups.376,POTENCIA_ACTIVA,,1,375,COS,,0,null
+inventory_groups.375,Analizador Alumbrado Recaudacion,,1,154,LOG,,0,null
+inventory_groups.379,ARMONICOS_TENSION,,1,375,COS,,0,null
+inventory_groups.378,ENERGIA_REACTIVA,,1,375,COS,,0,null
+inventory_groups.380,ARMONICOS_INTENSIDAD,,1,375,COS,,0,null
+inventory_groups.418,ENERGIA_REACTIVA,,1,415,COS,,0,null
+inventory_groups.420,ARMONICOS_INTENSIDAD,,1,415,COS,,0,null
+inventory_groups.422,POTENCIA_ACTIVA,,1,421,COS,,0,null
+inventory_groups.421,Analizador Enchufes Gabinete,,1,154,LOG,,0,null
+inventory_groups.424,ENERGIA_REACTIVA,,1,421,COS,,0,null
+inventory_groups.423,FACTOR_POTENCIA,,1,421,COS,,0,null
+inventory_groups.425,ARMONICOS_TENSION,,1,421,COS,,0,null
+inventory_groups.427,Analizador Central Telefonos,,1,154,LOG,,0,null
+inventory_groups.426,ARMONICOS_INTENSIDAD,,1,421,COS,,0,null
+inventory_groups.11,Temperatura y Humedad,,1,33,LOG,POINT (-5.800589629499841 38.973663551617605),6,null
+inventory_groups.48,Temperatura y Humedad,,1,34,LOG,POINT (-5.800357398779515 38.973717455076105),6,null
+inventory_groups.167,HUMEDAD,,1,160,CON,,0,null
+inventory_groups.160,Temperatura y Humedad,,1,4,LOG,POINT (-5.786177817818647 38.973765460943596),6,null
+inventory_groups.1,Villanueva de la Serena,,1,0,CLI,,0,null
+inventory_groups.4,Oficinas,,1,2,LOC,POINT (-5.786123466550489 38.973788365747616),0,
+inventory_groups.29,Planta Segunda,,1,7,LOC,,0,
+inventory_groups.33,Servicios Economicos,,1,29,LOC,POINT (-5.800525488355432 38.97371954031805),0,
+inventory_groups.34,Despacho Coordinador,,1,29,LOC,POINT (-5.800410153367793 38.97375707466277),0,
+inventory_groups.18,HUMEDAD,,1,11,CON,,0,null
+inventory_groups.12,TEMPERATURA,,1,11,CON,,0,null
+inventory_groups.49,TEMPERATURA,,1,48,CON,,0,null
+inventory_groups.84,Planta Baja,,1,7,LOC,,0,
+inventory_groups.439,Temperatura y Humedad,,1,304,LOG,POINT (-5.8008364524929945 38.974027165032446),6,null
+inventory_groups.304,Turismo,,1,301,LOC,,0,
+inventory_groups.440,TEMPERATURA,,1,439,CON,,0,null
+inventory_groups.306,Temperatura y Humedad,,1,305,LOG,POINT (-5.800615641731318 38.97410744645236),6,null
+inventory_groups.305,Oficinas,,1,301,LOC,,0,
+inventory_groups.446,HUMEDAD,,1,439,CON,,0,null
+inventory_groups.307,TEMPERATURA,,1,306,CON,,0,null
+inventory_groups.333,Salon de Plenos,,1,302,LOC,,0,
+inventory_groups.302,Planta Primera,,1,154,LOC,,0,
+inventory_groups.313,HUMEDAD,,1,306,CON,,0,null
+inventory_groups.449,TEMPERATURA,,1,448,CON,,0,null
+inventory_groups.448,Temperatura y Humedad,,1,333,LOG,POINT (-5.8008344408362325 38.97416583288241),6,null
+inventory_groups.455,HUMEDAD,,1,448,CON,,0,null
+inventory_groups.383,FACTOR_POTENCIA,,1,381,COS,,0,null
+inventory_groups.382,POTENCIA_ACTIVA,,1,381,COS,,0,null
+inventory_groups.381,Analizador Depositaria,,1,154,LOG,,0,null
+inventory_groups.384,ENERGIA_REACTIVA,,1,381,COS,,0,null
+inventory_groups.387,Analizador Gabinete y Telefono,,1,154,LOG,,0,null
+inventory_groups.386,ARMONICOS_INTENSIDAD,,1,381,COS,,0,null
+inventory_groups.385,ARMONICOS_TENSION,,1,381,COS,,0,null
+inventory_groups.389,FACTOR_POTENCIA,,1,387,COS,,0,null
+inventory_groups.388,POTENCIA_ACTIVA,,1,387,COS,,0,null
+inventory_groups.390,ENERGIA_REACTIVA,,1,387,COS,,0,null
+inventory_groups.392,ARMONICOS_INTENSIDAD,,1,387,COS,,0,null
+inventory_groups.391,ARMONICOS_TENSION,,1,387,COS,,0,null
+inventory_groups.404,POTENCIA_ACTIVA,,1,403,COS,,0,null
+inventory_groups.403,Analizador SAI,,1,154,LOG,,0,null
+inventory_groups.405,FACTOR_POTENCIA,,1,403,COS,,0,null
+inventory_groups.407,ARMONICOS_TENSION,,1,403,COS,,0,null
+inventory_groups.406,ENERGIA_REACTIVA,,1,403,COS,,0,null
+inventory_groups.409,Analizador Ascensor,,1,154,LOG,,0,null
+inventory_groups.408,ARMONICOS_INTENSIDAD,,1,403,COS,,0,null
+inventory_groups.410,POTENCIA_ACTIVA,,1,409,COS,,0,null
+inventory_groups.412,ENERGIA_REACTIVA,,1,409,COS,,0,null
+inventory_groups.411,FACTOR_POTENCIA,,1,409,COS,,0,null
+inventory_groups.414,ARMONICOS_INTENSIDAD,,1,409,COS,,0,null
+inventory_groups.413,ARMONICOS_TENSION,,1,409,COS,,0,null
+inventory_groups.415,Analizador Aire Acondicionado,,1,154,LOG,,0,null
+inventory_groups.417,FACTOR_POTENCIA,,1,415,COS,,0,null
+inventory_groups.416,POTENCIA_ACTIVA,,1,415,COS,,0,null
+inventory_groups.419,ARMONICOS_TENSION,,1,415,COS,,0,null
+inventory_groups.429,FACTOR_POTENCIA,,1,427,COS,,0,null
+inventory_groups.428,POTENCIA_ACTIVA,,1,427,COS,,0,null
+inventory_groups.430,ENERGIA_REACTIVA,,1,427,COS,,0,null
+inventory_groups.432,ARMONICOS_INTENSIDAD,,1,427,COS,,0,null
+inventory_groups.431,ARMONICOS_TENSION,,1,427,COS,,0,null
+inventory_groups.434,POTENCIA_ACTIVA,,1,433,COS,,0,null
+inventory_groups.433,Analizador General,,1,154,LOG,POINT (-5.800717565673882 38.97421066528711),1,null
+inventory_groups.435,FACTOR_POTENCIA,,1,433,COS,,0,null
+inventory_groups.437,ARMONICOS_TENSION,,1,433,COS,,0,null
+inventory_groups.436,ENERGIA_REACTIVA,,1,433,COS,,0,null
+inventory_groups.438,ARMONICOS_INTENSIDAD,,1,433,COS,,0,null
+inventory_groups.1081,HUMEDAD,,1,1074,CON,,0,null
+inventory_groups.1090,HUMEDAD,,1,1083,CON,,0,null
+inventory_groups.1099,HUMEDAD,,1,1092,CON,,0,null
+inventory_groups.1108,HUMEDAD,,1,1101,CON,,0,null
+inventory_groups.1117,HUMEDAD,,1,1110,CON,,0,null
+inventory_groups.1144,HUMEDAD,,1,1137,CON,,0,null
+inventory_groups.1153,HUMEDAD,,1,1146,CON,,0,null
+inventory_groups.1162,HUMEDAD,,1,1155,CON,,0,null
+inventory_groups.1060,HUMEDAD,,1,1053,CON,,0,null
+inventory_groups.1070,HUMEDAD,,1,1063,CON,,0,null
+inventory_groups.1126,HUMEDAD,,1,1119,CON,,0,null
+inventory_groups.1135,HUMEDAD,,1,1128,CON,,0,null

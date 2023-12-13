@@ -1,0 +1,2449 @@
+﻿estacion_id,estacion_nombre,sensor_id,sensor_alias,sensor_nombre,fecha_observacion,metrica,valor
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-01,media,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-01,minimo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-01,maximo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-02,media,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-02,minimo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-02,maximo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-03,media,2.60833
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-03,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-03,maximo,5.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-04,media,3.36181
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-04,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-04,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-05,media,4.00903
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-05,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-05,maximo,6.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-06,media,1.93264
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-06,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-06,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-07,media,2.15486
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-07,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-07,maximo,4.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-08,media,2.29097
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-08,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-08,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-09,media,2.17222
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-09,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-09,maximo,4.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-10,media,1.93819
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-10,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-10,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-11,media,2.02569
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-11,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-11,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-12,media,1.79167
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-12,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-12,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-13,media,1.71875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-13,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-13,maximo,3.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-14,media,5.06111
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-14,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-14,maximo,10.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-15,media,2.04514
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-15,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-15,maximo,6.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-16,media,2.48958
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-16,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-16,maximo,6.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-17,media,2.84028
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-17,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-17,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-18,media,2.15139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-18,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-18,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-19,media,1.875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-19,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-19,maximo,5.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-20,media,2.02083
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-20,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-20,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-21,media,1.98472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-21,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-21,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-22,media,1.98125
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-22,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-22,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-23,media,1.66944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-23,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-23,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-24,media,1.75764
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-24,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-24,maximo,3.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-25,media,1.91528
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-25,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-25,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-26,media,2.38403
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-26,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-26,maximo,4.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-27,media,1.91042
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-27,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-27,maximo,4.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-28,media,2.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-28,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-28,maximo,6.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-29,media,1.63889
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-29,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-29,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-30,media,2.53125
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-30,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-30,maximo,6.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-31,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-31,media,2.52778
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-31,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-03-31,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-01,media,1.93738
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-01,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-01,maximo,5.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-02,media,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-02,minimo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-02,maximo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-03,media,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-03,minimo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-03,maximo,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-04,media,3.22273
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-04,minimo,1.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-04,maximo,5.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-05,media,1.73056
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-05,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-05,maximo,4.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-06,media,2.68333
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-06,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-06,maximo,5.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-07,media,2.54375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-07,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-07,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-08,media,2.36389
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-08,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-08,maximo,5.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-09,media,1.81806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-09,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-09,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-10,media,2.04583
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-10,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-10,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-11,media,1.83819
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-11,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-11,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-12,media,1.60278
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-12,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-12,maximo,3.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-13,media,2.09792
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-13,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-13,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-14,media,2.43472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-14,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-14,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-15,media,1.89375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-15,minimo,0.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-15,maximo,3.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-16,media,1.74375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-16,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-16,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-17,media,2.56944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-17,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-17,maximo,4.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-18,media,2.78958
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-18,minimo,1.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-18,maximo,4.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-19,media,2.52639
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-19,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-19,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-20,media,3.11042
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-20,minimo,1.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-20,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-21,media,3.12431
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-21,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-21,maximo,6.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-22,media,1.67222
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-22,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-22,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-23,media,1.39375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-23,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-23,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-24,media,1.72847
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-24,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-24,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-25,media,1.71597
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-25,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-25,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-26,media,2.04792
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-26,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-26,maximo,4.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-27,media,2.77431
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-27,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-27,maximo,5.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-28,media,1.9875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-28,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-28,maximo,4.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-29,media,2.45208
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-29,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-29,maximo,5.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-30,media,2.39306
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-30,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-04-30,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-01,media,2.18889
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-01,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-01,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-02,media,2.5875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-02,minimo,1.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-02,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-03,media,3.00625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-03,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-03,maximo,6.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-04,media,3.05139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-04,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-04,maximo,5.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-05,media,2.01458
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-05,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-05,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-06,media,1.97569
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-06,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-06,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-07,media,1.91667
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-07,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-07,maximo,4.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-08,media,1.61528
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-08,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-08,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-09,media,1.98542
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-09,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-09,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-10,media,1.37569
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-10,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-10,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-11,media,1.42847
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-11,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-11,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-12,media,1.58958
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-12,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-12,maximo,2.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-13,media,1.19306
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-13,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-13,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-14,media,1.09167
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-14,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-14,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-15,media,1.58542
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-15,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-15,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-16,media,1.88542
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-16,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-16,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-17,media,2.06389
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-17,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-17,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-18,media,2.10903
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-18,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-18,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-19,media,1.6625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-19,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-19,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-20,media,2.08264
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-20,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-20,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-21,media,2.60625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-21,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-21,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-22,media,2.64097
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-22,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-22,maximo,5.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-23,media,2.49722
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-23,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-23,maximo,5.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-24,media,2.84792
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-24,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-24,maximo,6.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-25,media,2.55694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-25,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-25,maximo,5.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-26,media,1.96944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-26,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-26,maximo,5.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-27,media,1.92847
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-27,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-27,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-28,media,1.35347
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-28,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-28,maximo,2.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-29,media,1.98542
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-29,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-29,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-30,media,2.08611
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-30,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-30,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-31,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-31,media,1.43333
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-31,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-05-31,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-01,media,1.03611
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-01,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-01,maximo,2.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-02,media,1.72847
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-02,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-02,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-03,media,1.99931
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-03,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-03,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-04,media,2.88958
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-04,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-04,maximo,6.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-05,media,2.8875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-05,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-05,maximo,6.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-06,media,2.66181
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-06,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-06,maximo,6.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-07,media,1.68819
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-07,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-07,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-08,media,1.64097
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-08,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-08,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-09,media,1.39132
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-09,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-09,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-10,media,1.86389
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-10,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-10,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-11,media,2.00278
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-11,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-11,maximo,4.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-12,media,1.71528
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-12,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-12,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-13,media,1.32292
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-13,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-13,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-14,media,1.2707
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-14,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-14,maximo,2.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-15,media,1.74028
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-15,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-15,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-16,media,2.47083
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-16,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-16,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-17,media,2.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-17,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-17,maximo,5.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-18,media,2.59653
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-18,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-18,maximo,5.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-19,media,2.51944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-19,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-19,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-20,media,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-20,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-20,maximo,5.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-21,media,2.47431
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-21,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-21,maximo,5.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-22,media,2.14722
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-22,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-22,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-23,media,1.85625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-23,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-23,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-24,media,2.54722
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-24,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-24,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-25,media,2.54028
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-25,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-25,maximo,6.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-26,media,2.49097
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-26,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-26,maximo,6.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-27,media,3.10069
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-27,minimo,1.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-27,maximo,6.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-28,media,2.65417
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-28,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-28,maximo,6.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-29,media,2.66389
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-29,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-29,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-30,media,2.47431
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-30,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-06-30,maximo,6.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-01,media,2.46389
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-01,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-01,maximo,6.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-02,media,2.40972
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-02,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-02,maximo,6.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-03,media,2.87292
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-03,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-03,maximo,6.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-04,media,2.70764
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-04,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-04,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-05,media,2.60347
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-05,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-05,maximo,6.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-06,media,2.41806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-06,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-06,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-07,media,1.91806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-07,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-07,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-08,media,1.65833
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-08,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-08,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-09,media,1.57708
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-09,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-09,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-10,media,1.63819
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-10,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-10,maximo,4.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-11,media,1.99444
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-11,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-11,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-12,media,1.9875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-12,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-12,maximo,4.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-13,media,1.80556
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-13,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-13,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-14,media,1.70208
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-14,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-14,maximo,4.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-15,media,1.55
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-15,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-15,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-16,media,1.77014
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-16,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-16,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-17,media,1.88403
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-17,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-17,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-18,media,1.94097
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-18,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-18,maximo,4.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-19,media,1.65972
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-19,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-19,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-20,media,1.80625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-20,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-20,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-21,media,1.87083
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-21,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-21,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-22,media,1.89167
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-22,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-22,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-23,media,1.82847
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-23,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-23,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-24,media,1.81597
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-24,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-24,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-25,media,1.31944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-25,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-25,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-26,media,2.14931
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-26,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-26,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-27,media,1.875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-27,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-27,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-28,media,2.30694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-28,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-28,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-29,media,3.09306
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-29,minimo,0.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-29,maximo,6.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-30,media,2.39514
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-30,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-30,maximo,5.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-31,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-31,media,1.68125
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-31,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-07-31,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-01,media,1.56875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-01,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-01,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-02,media,1.50486
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-02,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-02,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-03,media,1.82153
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-03,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-03,maximo,4.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-04,media,1.49861
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-04,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-04,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-05,media,1.8125
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-05,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-05,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-06,media,1.76736
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-06,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-06,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-07,media,1.61181
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-07,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-07,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-08,media,1.61181
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-08,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-08,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-09,media,1.98403
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-09,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-09,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-10,media,1.90694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-10,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-10,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-11,media,1.92222
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-11,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-11,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-12,media,2.03681
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-12,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-12,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-13,media,1.97292
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-13,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-13,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-14,media,1.96458
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-14,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-14,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-15,media,2.31736
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-15,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-15,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-16,media,2.90208
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-16,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-16,maximo,7.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-17,media,3.11806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-17,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-17,maximo,6.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-18,media,2.86944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-18,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-18,maximo,6.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-19,media,1.96181
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-19,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-19,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-20,media,1.87708
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-20,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-20,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-21,media,1.78611
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-21,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-21,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-22,media,1.85972
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-22,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-22,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-23,media,1.74236
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-23,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-23,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-24,media,1.75139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-24,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-24,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-25,media,1.9875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-25,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-25,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-26,media,2.30486
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-26,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-26,maximo,5.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-27,media,2.03681
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-27,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-27,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-28,media,2.05139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-28,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-28,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-29,media,1.79375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-29,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-29,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-30,media,1.79931
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-30,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-30,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-31,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-31,media,1.86458
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-31,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-08-31,maximo,4.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-01,media,1.85069
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-01,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-01,maximo,4.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-02,media,1.55903
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-02,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-02,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-03,media,2.01597
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-03,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-03,maximo,5.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-04,media,1.83056
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-04,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-04,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-05,media,1.89444
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-05,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-05,maximo,4.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-06,media,2.84167
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-06,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-06,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-07,media,2.82778
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-07,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-07,maximo,5.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-08,media,2.35903
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-08,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-08,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-09,media,2.58333
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-09,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-09,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-10,media,2.10625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-10,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-10,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-11,media,1.55417
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-11,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-11,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-12,media,1.30347
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-12,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-12,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-13,media,1.55556
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-13,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-13,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-14,media,1.49375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-14,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-14,maximo,3.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-15,media,1.85417
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-15,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-15,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-16,media,2.73056
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-16,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-16,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-17,media,1.81042
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-17,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-17,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-18,media,1.55
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-18,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-18,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-19,media,1.58611
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-19,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-19,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-20,media,1.94028
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-20,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-20,maximo,3.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-21,media,2.1375
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-21,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-21,maximo,4.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-22,media,2.19583
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-22,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-22,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-23,media,2.12778
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-23,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-23,maximo,5.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-24,media,1.81736
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-24,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-24,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-25,media,1.07153
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-25,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-25,maximo,2.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-26,media,2.81597
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-26,minimo,1.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-26,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-27,media,2.47986
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-27,minimo,1.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-27,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-28,media,1.80694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-28,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-28,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-29,media,2.00347
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-29,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-29,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-30,media,2.86597
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-30,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-09-30,maximo,6.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-01,media,3.00139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-01,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-01,maximo,6.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-02,media,1.78542
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-02,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-02,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-03,media,1.90694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-03,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-03,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-04,media,2.40833
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-04,minimo,0.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-04,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-05,media,1.67639
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-05,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-05,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-06,media,1.84514
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-06,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-06,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-07,media,1.78472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-07,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-07,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-08,media,2.66806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-08,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-08,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-09,media,2.12083
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-09,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-09,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-10,media,2.37986
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-10,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-10,maximo,5.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-11,media,2.16319
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-11,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-11,maximo,4.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-12,media,2.95625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-12,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-12,maximo,6.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-13,media,2.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-13,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-13,maximo,5.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-14,media,3.11806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-14,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-14,maximo,5.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-15,media,2.04583
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-15,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-15,maximo,5.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-16,media,1.62986
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-16,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-16,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-17,media,1.525
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-17,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-17,maximo,3.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-18,media,1.88472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-18,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-18,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-19,media,1.50833
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-19,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-19,maximo,3.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-20,media,1.64306
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-20,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-20,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-21,media,1.98472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-21,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-21,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-22,media,1.66458
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-22,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-22,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-23,media,1.75
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-23,minimo,1.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-23,maximo,2.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-24,media,1.37684
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-24,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-24,maximo,2.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-25,media,1.59861
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-25,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-25,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-26,media,1.12292
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-26,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-26,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-27,media,1.66806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-27,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-27,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-28,media,1.35278
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-28,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-28,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-29,media,1.77292
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-29,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-29,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-30,media,1.55694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-30,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-30,maximo,3.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-31,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-31,media,1.60486
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-31,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-10-31,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-01,media,1.85069
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-01,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-01,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-02,media,1.98194
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-02,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-02,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-03,media,1.98819
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-03,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-03,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-04,media,2.33472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-04,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-04,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-05,media,1.95417
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-05,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-05,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-06,media,1.83264
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-06,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-06,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-07,media,1.94722
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-07,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-07,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-08,media,1.875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-08,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-08,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-09,media,1.86806
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-09,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-09,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-10,media,2.43056
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-10,minimo,1.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-10,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-11,media,1.97917
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-11,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-11,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-12,media,2.02986
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-12,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-12,maximo,3.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-13,media,1.77917
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-13,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-13,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-14,media,2.33889
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-14,minimo,0.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-14,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-15,media,2.47778
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-15,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-15,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-16,media,2.33403
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-16,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-16,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-17,media,1.73333
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-17,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-17,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-18,media,3.13056
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-18,minimo,1.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-18,maximo,6.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-19,media,3.30139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-19,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-19,maximo,5.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-20,media,2.96944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-20,minimo,1.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-20,maximo,5.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-21,media,1.89583
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-21,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-21,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-22,media,2.075
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-22,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-22,maximo,4.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-23,media,2.36597
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-23,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-23,maximo,4.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-24,media,1.72917
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-24,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-24,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-25,media,1.44861
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-25,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-25,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-26,media,2.13264
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-26,minimo,1.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-26,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-27,media,2.16458
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-27,minimo,1.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-27,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-28,media,2.26736
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-28,minimo,0.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-28,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-29,media,2.22153
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-29,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-29,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-30,media,1.81111
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-30,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-11-30,maximo,4.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-01,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-01,media,1.99236
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-01,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-01,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-02,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-02,media,2.0625
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-02,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-02,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-03,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-03,media,1.77708
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-03,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-03,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-04,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-04,media,2.41667
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-04,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-04,maximo,3.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-05,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-05,media,1.64444
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-05,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-05,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-06,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-06,media,1.95417
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-06,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-06,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-07,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-07,media,1.88472
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-07,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-07,maximo,3.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-08,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-08,media,1.17847
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-08,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-08,maximo,2.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-09,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-09,media,1.25208
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-09,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-09,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-10,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-10,media,1.38958
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-10,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-10,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-11,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-11,media,1.44861
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-11,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-11,maximo,2.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-12,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-12,media,1.76875
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-12,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-12,maximo,3.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-13,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-13,media,1.46944
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-13,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-13,maximo,2.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-14,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-14,media,1.78542
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-14,minimo,0.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-14,maximo,3.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-15,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-15,media,1.60903
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-15,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-15,maximo,2.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-16,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-16,media,1.92083
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-16,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-16,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-17,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-17,media,1.95
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-17,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-17,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-18,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-18,media,2.20694
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-18,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-18,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-19,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-19,media,1.97361
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-19,minimo,0.6
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-19,maximo,3.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-20,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-20,media,2.34583
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-20,minimo,0.0
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-20,maximo,4.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-21,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-21,media,2.68681
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-21,minimo,1.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-21,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-22,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-22,media,2.20139
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-22,minimo,0.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-22,maximo,3.9
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-23,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-23,media,2.06111
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-23,minimo,0.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-23,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-24,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-24,media,2.17153
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-24,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-24,maximo,3.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-25,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-25,media,2.22639
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-25,minimo,0.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-25,maximo,4.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-26,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-26,media,1.67153
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-26,minimo,0.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-26,maximo,3.5
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-27,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-27,media,2.61389
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-27,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-27,maximo,5.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-28,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-28,media,2.79653
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-28,minimo,1.3
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-28,maximo,4.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-29,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-29,media,2.25486
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-29,minimo,0.8
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-29,maximo,4.1
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-30,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-30,media,1.94444
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-30,minimo,0.4
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-30,maximo,3.7
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-31,total,
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-31,media,1.99028
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-31,minimo,0.2
+60,ELVIENTO,1267,WSP,Velocidad del viento,2022-12-31,maximo,4.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-01,total,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-02,total,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-14,total,7.3
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-15,total,1.8
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-27,total,1.1
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-28,total,0.1
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-31,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-31,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-31,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-03-31,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-02,total,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-03,total,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-04-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-31,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-31,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-31,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-05-31,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-01,total,0.8
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-06-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-31,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-31,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-31,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-07-31,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-31,total,1.7
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-31,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-31,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-08-31,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-01,total,0.1
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-02,total,4.2
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-18,total,0.2
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-24,total,32.3
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-25,total,133.3
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-26,total,78.3
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-27,total,6.4
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-09-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-04,total,0.1
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-31,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-31,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-31,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-10-31,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-03,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-04,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-05,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-06,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-07,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-10,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-25,total,0.6
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-26,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-11-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-01,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-01,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-01,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-01,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-02,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-02,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-02,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-02,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-03,total,0.2
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-03,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-03,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-03,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-04,total,1.2
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-04,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-04,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-04,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-05,total,0.3
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-05,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-05,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-05,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-06,total,0.5
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-06,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-06,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-06,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-07,total,5.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-07,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-07,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-07,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-08,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-08,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-08,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-08,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-09,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-09,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-09,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-09,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-10,total,0.8
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-10,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-10,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-10,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-11,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-11,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-11,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-11,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-12,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-12,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-12,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-12,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-13,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-13,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-13,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-13,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-14,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-14,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-14,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-14,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-15,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-15,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-15,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-15,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-16,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-16,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-16,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-16,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-17,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-17,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-17,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-17,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-18,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-18,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-18,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-18,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-19,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-19,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-19,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-19,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-20,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-20,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-20,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-20,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-21,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-21,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-21,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-21,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-22,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-22,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-22,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-22,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-23,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-23,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-23,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-23,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-24,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-24,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-24,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-24,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-25,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-25,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-25,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-25,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-26,total,26.6
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-26,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-26,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-26,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-27,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-27,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-27,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-27,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-28,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-28,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-28,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-28,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-29,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-29,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-29,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-29,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-30,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-30,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-30,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-30,maximo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-31,total,0.0
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-31,media,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-31,minimo,
+60,ELVIENTO,1270,RAIN,Precipitación,2022-12-31,maximo,

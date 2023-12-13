@@ -1,0 +1,2441 @@
+﻿estacion_id,estacion_nombre,sensor_id,sensor_alias,sensor_nombre,fecha_observacion,metrica,valor
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-01,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-01,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-01,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-01,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-02,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-02,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-02,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-02,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-03,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-03,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-03,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-03,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-04,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-04,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-04,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-04,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-05,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-05,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-05,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-05,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-06,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-06,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-06,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-06,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-07,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-07,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-07,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-07,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-08,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-08,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-08,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-08,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-09,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-09,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-09,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-09,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-10,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-10,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-10,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-10,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-11,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-11,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-11,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-11,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-12,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-12,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-12,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-12,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-13,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-13,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-13,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-13,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-14,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-14,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-14,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-14,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-15,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-15,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-15,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-15,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-16,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-16,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-16,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-16,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-17,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-17,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-17,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-17,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-18,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-18,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-18,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-18,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-19,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-19,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-19,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-19,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-20,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-20,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-20,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-20,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-21,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-21,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-21,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-21,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-22,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-22,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-22,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-22,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-23,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-23,media,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-23,minimo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-23,maximo,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-24,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-24,media,19.4766
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-24,minimo,17.87
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-24,maximo,20.58
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-25,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-25,media,20.349
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-25,minimo,19.19
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-25,maximo,22.16
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-26,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-26,media,19.3715
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-26,minimo,18.6
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-26,maximo,20.53
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-27,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-27,media,20.5851
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-27,minimo,18.84
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-27,maximo,24.07
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-28,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-28,media,20.0661
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-28,minimo,18.76
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-28,maximo,22.99
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-29,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-29,media,19.7379
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-29,minimo,18.11
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-29,maximo,21.81
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-30,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-30,media,19.4588
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-30,minimo,18.12
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-09-30,maximo,21.64
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-01,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-01,media,19.4468
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-01,minimo,17.82
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-01,maximo,21.1
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-02,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-02,media,19.7108
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-02,minimo,17.34
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-02,maximo,22.45
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-03,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-03,media,21.3535
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-03,minimo,17.61
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-03,maximo,24.55
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-04,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-04,media,24.8434
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-04,minimo,20.82
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-04,maximo,28.59
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-05,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-05,media,22.6558
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-05,minimo,19.47
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-05,maximo,27.14
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-06,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-06,media,19.902
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-06,minimo,19.01
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-06,maximo,21.25
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-07,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-07,media,19.9489
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-07,minimo,18.78
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-07,maximo,21.29
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-08,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-08,media,20.1358
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-08,minimo,19.46
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-08,maximo,21.55
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-09,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-09,media,19.6222
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-09,minimo,18.52
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-09,maximo,20.32
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-10,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-10,media,19.1233
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-10,minimo,17.35
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-10,maximo,20.61
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-11,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-11,media,19.3007
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-11,minimo,17.12
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-11,maximo,21.74
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-12,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-12,media,19.3679
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-12,minimo,16.6
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-12,maximo,21.21
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-13,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-13,media,19.6893
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-13,minimo,18.79
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-13,maximo,21.36
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-14,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-14,media,19.2969
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-14,minimo,18.15
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-14,maximo,20.14
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-15,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-15,media,19.362
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-15,minimo,17.68
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-15,maximo,20.33
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-16,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-16,media,19.2005
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-16,minimo,16.97
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-16,maximo,21.55
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-17,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-17,media,19.0799
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-17,minimo,17.0
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-17,maximo,21.74
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-18,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-18,media,19.0837
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-18,minimo,16.92
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-18,maximo,22.13
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-19,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-19,media,19.4949
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-19,minimo,17.51
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-19,maximo,21.91
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-20,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-20,media,18.6979
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-20,minimo,16.42
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-20,maximo,21.28
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-21,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-21,media,19.2417
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-21,minimo,16.21
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-21,maximo,21.54
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-22,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-22,media,19.9881
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-22,minimo,17.03
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-22,maximo,23.13
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-23,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-23,media,19.2208
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-23,minimo,17.64
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-23,maximo,21.35
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-24,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-24,media,19.3028
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-24,minimo,17.5
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-24,maximo,21.78
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-25,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-25,media,19.3597
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-25,minimo,17.18
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-25,maximo,22.54
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-26,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-26,media,19.0007
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-26,minimo,17.14
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-26,maximo,21.27
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-27,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-27,media,19.4694
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-27,minimo,17.22
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-27,maximo,22.47
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-28,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-28,media,21.627
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-28,minimo,18.62
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-28,maximo,26.11
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-29,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-29,media,20.4453
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-29,minimo,18.51
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-29,maximo,22.77
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-30,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-30,media,19.3235
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-30,minimo,16.92
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-30,maximo,21.77
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-31,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-31,media,19.4949
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-31,minimo,17.77
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-10-31,maximo,21.45
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-01,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-01,media,19.5749
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-01,minimo,17.21
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-01,maximo,22.66
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-02,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-02,media,19.8499
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-02,minimo,17.48
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-02,maximo,23.34
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-03,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-03,media,19.3094
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-03,minimo,17.32
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-03,maximo,21.79
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-04,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-04,media,18.8824
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-04,minimo,17.05
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-04,maximo,20.76
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-05,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-05,media,19.4274
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-05,minimo,18.25
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-05,maximo,22.46
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-06,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-06,media,19.0197
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-06,minimo,17.31
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-06,maximo,21.76
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-07,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-07,media,19.0328
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-07,minimo,16.79
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-07,maximo,22.58
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-08,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-08,media,18.6903
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-08,minimo,15.98
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-08,maximo,21.44
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-09,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-09,media,18.3836
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-09,minimo,16.47
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-09,maximo,20.54
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-10,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-10,media,18.9212
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-10,minimo,16.03
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-10,maximo,23.15
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-11,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-11,media,18.4427
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-11,minimo,15.92
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-11,maximo,21.92
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-12,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-12,media,19.0308
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-12,minimo,16.93
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-12,maximo,21.41
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-13,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-13,media,18.6786
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-13,minimo,17.03
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-13,maximo,20.5
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-14,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-14,media,20.9839
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-14,minimo,18.14
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-14,maximo,25.78
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-15,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-15,media,20.4876
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-15,minimo,17.97
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-15,maximo,23.88
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-16,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-16,media,19.7213
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-16,minimo,17.0
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-16,maximo,22.53
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-17,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-17,media,19.0947
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-17,minimo,16.81
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-17,maximo,21.38
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-18,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-18,media,18.713
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-18,minimo,15.75
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-18,maximo,21.75
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-19,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-19,media,17.5873
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-19,minimo,15.67
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-19,maximo,19.2
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-20,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-20,media,17.3465
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-20,minimo,16.12
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-20,maximo,19.43
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-21,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-21,media,18.5954
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-21,minimo,16.31
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-21,maximo,21.47
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-22,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-22,media,18.1899
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-22,minimo,16.3
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-22,maximo,20.41
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-23,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-23,media,18.1879
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-23,minimo,16.53
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-23,maximo,20.12
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-24,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-24,media,18.3635
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-24,minimo,16.43
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-24,maximo,20.78
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-25,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-25,media,18.4774
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-25,minimo,16.07
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-25,maximo,22.1
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-26,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-26,media,17.731
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-26,minimo,15.56
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-26,maximo,21.3
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-27,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-27,media,17.8733
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-27,minimo,16.26
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-27,maximo,19.99
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-28,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-28,media,18.127
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-28,minimo,15.8
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-28,maximo,20.39
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-29,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-29,media,17.4181
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-29,minimo,15.62
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-29,maximo,18.99
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-30,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-30,media,17.694
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-30,minimo,16.31
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-11-30,maximo,19.26
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-01,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-01,media,17.2846
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-01,minimo,14.78
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-01,maximo,18.99
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-02,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-02,media,16.9869
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-02,minimo,15.08
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-02,maximo,19.8
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-03,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-03,media,15.8353
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-03,minimo,14.75
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-03,maximo,17.02
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-04,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-04,media,18.0306
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-04,minimo,13.91
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-04,maximo,21.55
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-05,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-05,media,18.5299
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-05,minimo,16.17
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-05,maximo,20.79
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-06,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-06,media,17.7033
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-06,minimo,15.41
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-06,maximo,20.83
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-07,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-07,media,19.0492
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-07,minimo,16.68
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-07,maximo,21.44
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-08,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-08,media,18.7725
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-08,minimo,17.05
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-08,maximo,21.37
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-09,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-09,media,18.8899
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-09,minimo,16.79
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-09,maximo,21.6
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-10,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-10,media,20.2825
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-10,minimo,18.18
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-10,maximo,22.74
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-11,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-11,media,20.4233
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-11,minimo,18.13
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-11,maximo,23.39
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-12,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-12,media,19.7536
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-12,minimo,18.05
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-12,maximo,22.52
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-13,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-13,media,23.284
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-13,minimo,19.35
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-13,maximo,27.07
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-14,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-14,media,19.7626
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-14,minimo,16.24
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-14,maximo,24.25
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-15,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-15,media,16.5469
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-15,minimo,14.44
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-15,maximo,18.92
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-16,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-16,media,15.9248
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-16,minimo,13.53
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-16,maximo,18.8
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-17,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-17,media,16.1119
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-17,minimo,14.43
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-17,maximo,18.4
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-18,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-18,media,16.2785
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-18,minimo,13.76
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-18,maximo,19.21
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-19,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-19,media,16.9019
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-19,minimo,14.89
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-19,maximo,18.95
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-20,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-20,media,17.3915
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-20,minimo,14.98
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-20,maximo,20.62
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-21,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-21,media,17.6102
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-21,minimo,14.78
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-21,maximo,21.12
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-22,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-22,media,18.4172
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-22,minimo,15.72
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-22,maximo,21.6
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-23,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-23,media,18.2793
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-23,minimo,16.13
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-23,maximo,20.88
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-24,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-24,media,17.4997
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-24,minimo,14.92
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-24,maximo,20.18
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-25,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-25,media,16.5681
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-25,minimo,13.39
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-25,maximo,18.87
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-26,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-26,media,14.3813
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-26,minimo,11.55
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-26,maximo,17.99
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-27,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-27,media,18.9019
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-27,minimo,17.07
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-27,maximo,20.03
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-28,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-28,media,18.8004
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-28,minimo,17.23
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-28,maximo,21.55
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-29,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-29,media,19.8881
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-29,minimo,17.11
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-29,maximo,22.87
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-30,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-30,media,18.5682
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-30,minimo,16.34
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-30,maximo,22.19
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-31,total,
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-31,media,17.9341
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-31,minimo,16.05
+204,Imetos_Mazape,1308,TEMP,Temperatura,2022-12-31,maximo,20.34
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-01,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-01,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-01,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-01,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-02,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-02,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-02,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-02,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-03,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-03,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-03,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-03,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-04,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-04,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-04,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-04,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-05,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-05,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-05,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-05,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-06,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-06,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-06,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-06,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-07,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-07,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-07,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-07,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-08,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-08,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-08,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-08,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-09,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-09,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-09,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-09,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-10,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-10,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-10,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-10,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-11,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-11,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-11,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-11,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-12,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-12,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-12,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-12,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-13,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-13,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-13,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-13,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-14,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-14,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-14,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-14,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-15,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-15,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-15,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-15,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-16,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-16,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-16,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-16,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-17,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-17,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-17,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-17,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-18,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-18,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-18,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-18,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-19,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-19,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-19,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-19,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-20,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-20,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-20,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-20,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-21,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-21,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-21,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-21,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-22,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-22,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-22,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-22,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-23,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-23,media,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-23,minimo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-23,maximo,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-24,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-24,media,87.6358
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-24,minimo,71.6
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-24,maximo,98.77
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-25,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-25,media,94.7658
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-25,minimo,84.04
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-25,maximo,100.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-26,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-26,media,95.54
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-26,minimo,84.09
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-26,maximo,100.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-27,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-27,media,82.8059
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-27,minimo,69.84
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-27,maximo,92.93
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-28,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-28,media,84.4858
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-28,minimo,72.03
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-28,maximo,90.24
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-29,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-29,media,82.0077
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-29,minimo,68.45
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-29,maximo,97.04
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-30,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-30,media,76.6588
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-30,minimo,55.94
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-09-30,maximo,97.37
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-01,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-01,media,73.5774
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-01,minimo,56.42
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-01,maximo,90.73
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-02,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-02,media,78.6547
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-02,minimo,67.09
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-02,maximo,94.11
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-03,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-03,media,69.2367
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-03,minimo,38.9
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-03,maximo,89.78
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-04,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-04,media,52.5651
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-04,minimo,31.34
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-04,maximo,96.27
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-05,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-05,media,69.7547
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-05,minimo,34.82
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-05,maximo,94.91
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-06,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-06,media,80.3107
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-06,minimo,63.59
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-06,maximo,92.65
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-07,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-07,media,81.9576
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-07,minimo,67.46
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-07,maximo,90.03
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-08,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-08,media,83.1098
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-08,minimo,71.29
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-08,maximo,91.96
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-09,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-09,media,86.3735
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-09,minimo,76.97
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-09,maximo,92.56
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-10,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-10,media,83.1097
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-10,minimo,70.77
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-10,maximo,91.37
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-11,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-11,media,81.614
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-11,minimo,64.9
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-11,maximo,99.38
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-12,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-12,media,76.2718
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-12,minimo,62.98
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-12,maximo,95.98
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-13,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-13,media,82.7485
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-13,minimo,71.1
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-13,maximo,90.2
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-14,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-14,media,91.2394
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-14,minimo,78.12
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-14,maximo,96.66
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-15,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-15,media,86.4756
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-15,minimo,75.67
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-15,maximo,94.22
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-16,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-16,media,77.8508
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-16,minimo,62.52
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-16,maximo,91.69
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-17,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-17,media,75.4565
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-17,minimo,56.48
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-17,maximo,93.26
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-18,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-18,media,81.0628
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-18,minimo,66.97
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-18,maximo,91.19
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-19,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-19,media,83.3326
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-19,minimo,58.91
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-19,maximo,94.37
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-20,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-20,media,81.4604
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-20,minimo,59.15
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-20,maximo,92.76
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-21,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-21,media,76.1952
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-21,minimo,30.49
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-21,maximo,92.97
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-22,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-22,media,75.8596
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-22,minimo,43.98
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-22,maximo,94.62
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-23,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-23,media,83.3354
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-23,minimo,59.31
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-23,maximo,97.28
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-24,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-24,media,82.3609
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-24,minimo,73.35
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-24,maximo,92.09
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-25,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-25,media,84.2416
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-25,minimo,69.05
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-25,maximo,92.98
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-26,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-26,media,85.7612
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-26,minimo,71.58
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-26,maximo,96.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-27,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-27,media,86.0223
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-27,minimo,73.98
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-27,maximo,96.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-28,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-28,media,67.3094
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-28,minimo,40.22
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-28,maximo,98.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-29,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-29,media,77.8667
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-29,minimo,41.78
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-29,maximo,95.7
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-30,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-30,media,89.0847
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-30,minimo,58.92
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-30,maximo,96.43
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-31,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-31,media,87.6787
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-31,minimo,45.3
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-10-31,maximo,96.03
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-01,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-01,media,84.3479
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-01,minimo,71.39
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-01,maximo,95.8
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-02,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-02,media,78.6465
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-02,minimo,34.65
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-02,maximo,96.34
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-03,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-03,media,84.0306
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-03,minimo,70.34
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-03,maximo,90.79
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-04,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-04,media,82.1178
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-04,minimo,76.09
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-04,maximo,88.78
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-05,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-05,media,85.3964
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-05,minimo,65.67
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-05,maximo,100.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-06,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-06,media,92.2776
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-06,minimo,78.05
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-06,maximo,100.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-07,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-07,media,77.3108
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-07,minimo,56.52
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-07,maximo,93.24
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-08,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-08,media,81.9392
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-08,minimo,68.23
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-08,maximo,92.04
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-09,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-09,media,77.7131
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-09,minimo,65.22
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-09,maximo,85.17
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-10,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-10,media,74.6479
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-10,minimo,63.66
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-10,maximo,87.08
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-11,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-11,media,80.247
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-11,minimo,63.11
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-11,maximo,90.13
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-12,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-12,media,70.656
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-12,minimo,35.83
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-12,maximo,87.77
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-13,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-13,media,84.71
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-13,minimo,73.11
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-13,maximo,93.56
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-14,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-14,media,69.0276
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-14,minimo,31.82
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-14,maximo,95.58
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-15,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-15,media,51.6674
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-15,minimo,19.95
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-15,maximo,98.31
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-16,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-16,media,65.8358
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-16,minimo,23.32
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-16,maximo,97.69
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-17,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-17,media,62.7465
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-17,minimo,24.84
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-17,maximo,93.9
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-18,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-18,media,80.7043
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-18,minimo,60.32
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-18,maximo,95.68
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-19,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-19,media,72.1844
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-19,minimo,60.88
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-19,maximo,86.37
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-20,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-20,media,79.6261
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-20,minimo,65.31
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-20,maximo,99.61
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-21,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-21,media,80.2036
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-21,minimo,63.29
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-21,maximo,91.95
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-22,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-22,media,73.6897
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-22,minimo,64.75
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-22,maximo,80.88
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-23,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-23,media,81.2193
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-23,minimo,67.04
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-23,maximo,99.57
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-24,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-24,media,80.081
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-24,minimo,63.61
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-24,maximo,90.27
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-25,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-25,media,76.3468
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-25,minimo,59.74
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-25,maximo,88.12
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-26,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-26,media,76.8776
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-26,minimo,55.79
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-26,maximo,90.88
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-27,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-27,media,86.2553
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-27,minimo,69.66
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-27,maximo,92.44
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-28,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-28,media,84.1201
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-28,minimo,71.74
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-28,maximo,92.15
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-29,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-29,media,79.2328
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-29,minimo,71.94
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-29,maximo,88.58
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-30,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-30,media,65.7397
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-30,minimo,59.01
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-11-30,maximo,73.53
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-01,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-01,media,70.1984
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-01,minimo,59.04
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-01,maximo,96.41
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-02,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-02,media,79.8047
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-02,minimo,59.23
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-02,maximo,99.98
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-03,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-03,media,87.9015
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-03,minimo,73.96
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-03,maximo,99.43
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-04,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-04,media,55.5172
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-04,minimo,25.78
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-04,maximo,78.79
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-05,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-05,media,70.4812
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-05,minimo,46.36
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-05,maximo,87.29
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-06,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-06,media,71.6143
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-06,minimo,62.21
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-06,maximo,83.42
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-07,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-07,media,72.8465
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-07,minimo,43.52
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-07,maximo,97.52
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-08,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-08,media,78.7534
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-08,minimo,61.17
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-08,maximo,88.43
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-09,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-09,media,76.3476
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-09,minimo,62.01
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-09,maximo,87.06
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-10,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-10,media,76.2058
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-10,minimo,66.45
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-10,maximo,83.95
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-11,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-11,media,79.7342
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-11,minimo,66.52
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-11,maximo,97.7
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-12,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-12,media,78.3374
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-12,minimo,45.3
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-12,maximo,100.0
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-13,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-13,media,52.5839
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-13,minimo,38.49
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-13,maximo,78.07
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-14,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-14,media,72.8416
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-14,minimo,41.33
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-14,maximo,95.44
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-15,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-15,media,74.6803
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-15,minimo,61.86
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-15,maximo,98.36
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-16,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-16,media,76.5872
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-16,minimo,57.68
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-16,maximo,88.67
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-17,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-17,media,76.4992
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-17,minimo,68.7
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-17,maximo,86.33
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-18,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-18,media,78.3177
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-18,minimo,63.82
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-18,maximo,86.25
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-19,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-19,media,77.0609
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-19,minimo,51.25
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-19,maximo,87.62
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-20,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-20,media,67.6547
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-20,minimo,33.96
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-20,maximo,94.75
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-21,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-21,media,49.4712
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-21,minimo,34.5
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-21,maximo,72.6
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-22,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-22,media,39.7472
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-22,minimo,28.24
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-22,maximo,56.88
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-23,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-23,media,38.6823
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-23,minimo,32.38
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-23,maximo,48.2
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-24,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-24,media,48.2752
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-24,minimo,33.44
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-24,maximo,70.16
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-25,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-25,media,65.2017
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-25,minimo,33.68
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-25,maximo,99.99
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-26,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-26,media,81.8972
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-26,minimo,44.8
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-26,maximo,99.99
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-27,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-27,media,44.6987
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-27,minimo,29.14
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-27,maximo,71.28
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-28,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-28,media,55.7808
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-28,minimo,33.07
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-28,maximo,83.85
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-29,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-29,media,43.9751
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-29,minimo,26.54
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-29,maximo,59.06
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-30,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-30,media,65.5239
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-30,minimo,49.12
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-30,maximo,77.59
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-31,total,
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-31,media,69.4801
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-31,minimo,57.03
+204,Imetos_Mazape,1309,HUM,Humedad relativa,2022-12-31,maximo,82.38
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-01,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-01,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-01,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-01,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-02,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-02,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-02,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-02,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-03,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-03,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-03,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-03,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-04,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-04,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-04,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-04,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-05,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-05,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-05,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-05,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-06,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-06,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-06,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-06,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-07,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-07,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-07,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-07,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-08,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-08,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-08,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-08,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-09,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-09,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-09,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-09,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-10,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-10,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-10,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-10,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-11,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-11,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-11,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-11,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-12,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-12,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-12,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-12,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-13,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-13,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-13,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-13,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-14,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-14,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-14,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-14,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-15,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-15,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-15,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-15,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-16,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-16,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-16,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-16,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-17,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-17,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-17,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-17,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-18,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-18,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-18,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-18,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-19,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-19,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-19,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-19,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-20,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-20,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-20,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-20,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-21,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-21,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-21,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-21,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-22,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-22,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-22,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-22,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-23,total,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-23,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-23,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-23,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-24,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-24,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-24,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-24,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-25,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-25,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-25,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-25,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-26,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-26,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-26,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-26,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-27,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-27,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-27,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-27,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-28,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-28,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-28,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-28,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-29,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-29,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-29,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-29,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-30,total,2.6
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-30,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-30,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-09-30,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-01,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-01,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-01,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-01,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-02,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-02,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-02,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-02,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-03,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-03,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-03,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-03,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-04,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-04,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-04,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-04,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-05,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-05,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-05,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-05,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-06,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-06,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-06,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-06,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-07,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-07,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-07,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-07,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-08,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-08,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-08,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-08,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-09,total,0.2
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-09,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-09,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-09,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-10,total,0.8
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-10,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-10,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-10,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-11,total,0.8
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-11,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-11,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-11,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-12,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-12,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-12,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-12,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-13,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-13,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-13,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-13,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-14,total,28.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-14,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-14,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-14,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-15,total,0.4
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-15,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-15,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-15,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-16,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-16,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-16,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-16,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-17,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-17,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-17,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-17,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-18,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-18,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-18,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-18,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-19,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-19,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-19,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-19,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-20,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-20,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-20,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-20,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-21,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-21,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-21,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-21,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-22,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-22,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-22,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-22,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-23,total,0.4
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-23,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-23,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-23,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-24,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-24,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-24,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-24,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-25,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-25,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-25,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-25,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-26,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-26,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-26,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-26,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-27,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-27,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-27,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-27,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-28,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-28,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-28,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-28,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-29,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-29,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-29,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-29,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-30,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-30,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-30,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-30,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-31,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-31,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-31,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-10-31,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-01,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-01,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-01,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-01,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-02,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-02,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-02,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-02,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-03,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-03,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-03,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-03,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-04,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-04,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-04,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-04,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-05,total,1.6
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-05,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-05,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-05,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-06,total,2.4
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-06,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-06,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-06,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-07,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-07,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-07,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-07,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-08,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-08,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-08,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-08,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-09,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-09,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-09,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-09,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-10,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-10,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-10,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-10,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-11,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-11,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-11,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-11,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-12,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-12,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-12,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-12,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-13,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-13,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-13,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-13,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-14,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-14,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-14,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-14,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-15,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-15,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-15,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-15,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-16,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-16,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-16,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-16,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-17,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-17,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-17,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-17,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-18,total,2.4
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-18,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-18,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-18,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-19,total,1.2
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-19,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-19,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-19,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-20,total,0.2
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-20,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-20,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-20,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-21,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-21,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-21,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-21,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-22,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-22,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-22,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-22,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-23,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-23,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-23,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-23,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-24,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-24,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-24,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-24,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-25,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-25,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-25,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-25,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-26,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-26,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-26,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-26,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-27,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-27,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-27,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-27,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-28,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-28,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-28,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-28,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-29,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-29,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-29,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-29,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-30,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-30,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-30,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-11-30,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-01,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-01,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-01,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-01,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-02,total,1.2
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-02,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-02,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-02,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-03,total,11.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-03,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-03,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-03,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-04,total,6.6
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-04,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-04,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-04,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-05,total,9.8
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-05,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-05,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-05,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-06,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-06,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-06,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-06,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-07,total,8.2
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-07,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-07,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-07,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-08,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-08,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-08,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-08,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-09,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-09,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-09,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-09,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-10,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-10,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-10,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-10,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-11,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-11,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-11,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-11,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-12,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-12,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-12,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-12,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-13,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-13,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-13,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-13,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-14,total,0.6
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-14,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-14,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-14,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-15,total,7.6
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-15,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-15,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-15,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-16,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-16,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-16,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-16,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-17,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-17,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-17,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-17,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-18,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-18,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-18,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-18,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-19,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-19,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-19,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-19,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-20,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-20,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-20,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-20,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-21,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-21,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-21,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-21,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-22,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-22,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-22,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-22,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-23,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-23,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-23,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-23,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-24,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-24,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-24,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-24,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-25,total,3.8
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-25,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-25,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-25,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-26,total,76.2
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-26,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-26,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-26,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-27,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-27,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-27,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-27,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-28,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-28,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-28,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-28,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-29,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-29,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-29,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-29,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-30,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-30,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-30,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-30,maximo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-31,total,0.0
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-31,media,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-31,minimo,
+204,Imetos_Mazape,1310,RAIN,Precipitación,2022-12-31,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-01,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-01,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-01,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-01,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-02,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-02,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-02,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-02,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-03,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-03,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-03,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-03,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-04,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-04,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-04,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-04,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-05,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-05,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-05,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-05,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-06,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-06,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-06,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-06,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-07,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-07,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-07,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-07,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-08,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-08,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-08,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-08,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-09,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-09,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-09,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-09,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-10,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-10,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-10,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-10,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-11,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-11,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-11,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-11,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-12,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-12,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-12,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-12,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-13,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-13,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-13,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-13,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-14,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-14,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-14,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-14,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-15,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-15,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-15,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-15,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-16,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-16,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-16,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-16,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-17,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-17,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-17,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-17,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-18,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-18,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-18,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-18,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-19,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-19,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-19,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-19,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-20,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-20,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-20,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-20,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-21,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-21,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-21,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-21,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-22,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-22,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-22,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-22,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-23,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-23,media,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-23,minimo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-23,maximo,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-24,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-24,media,0.519444
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-24,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-24,maximo,1.9
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-25,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-25,media,0.588889
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-25,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-25,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-26,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-26,media,2.40139
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-26,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-26,maximo,6.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-27,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-27,media,1.38611
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-27,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-27,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-28,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-28,media,1.71111
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-28,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-28,maximo,3.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-29,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-29,media,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-29,minimo,0.9
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-29,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-30,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-30,media,2.23194
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-30,minimo,1.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-09-30,maximo,3.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-01,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-01,media,2.74375
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-01,minimo,0.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-01,maximo,4.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-02,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-02,media,1.28819
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-02,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-02,maximo,2.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-03,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-03,media,0.792361
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-03,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-03,maximo,1.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-04,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-04,media,0.553472
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-04,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-04,maximo,2.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-05,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-05,media,1.71875
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-05,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-05,maximo,3.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-06,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-06,media,1.75347
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-06,minimo,0.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-06,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-07,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-07,media,1.74236
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-07,minimo,0.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-07,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-08,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-08,media,2.11528
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-08,minimo,1.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-08,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-09,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-09,media,2.15972
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-09,minimo,1.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-09,maximo,3.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-10,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-10,media,1.52431
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-10,minimo,0.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-10,maximo,2.9
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-11,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-11,media,1.75
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-11,minimo,0.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-11,maximo,3.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-12,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-12,media,2.28958
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-12,minimo,1.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-12,maximo,3.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-13,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-13,media,2.51875
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-13,minimo,1.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-13,maximo,4.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-14,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-14,media,2.29931
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-14,minimo,0.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-14,maximo,4.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-15,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-15,media,1.74375
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-15,minimo,0.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-15,maximo,3.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-16,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-16,media,1.20069
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-16,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-16,maximo,2.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-17,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-17,media,0.881944
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-17,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-17,maximo,1.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-18,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-18,media,1.15
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-18,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-18,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-19,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-19,media,1.12639
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-19,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-19,maximo,2.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-20,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-20,media,1.24345
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-20,minimo,0.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-20,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-21,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-21,media,1.35833
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-21,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-21,maximo,2.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-22,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-22,media,1.22431
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-22,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-22,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-23,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-23,media,1.35347
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-23,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-23,maximo,2.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-24,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-24,media,0.821528
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-24,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-24,maximo,1.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-25,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-25,media,0.954861
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-25,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-25,maximo,2.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-26,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-26,media,0.699306
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-26,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-26,maximo,1.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-27,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-27,media,0.957639
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-27,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-27,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-28,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-28,media,0.86875
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-28,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-28,maximo,2.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-29,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-29,media,1.52917
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-29,minimo,0.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-29,maximo,2.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-30,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-30,media,1.33333
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-30,minimo,0.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-30,maximo,2.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-31,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-31,media,1.60208
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-31,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-10-31,maximo,3.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-01,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-01,media,0.950694
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-01,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-01,maximo,2.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-02,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-02,media,0.703472
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-02,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-02,maximo,1.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-03,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-03,media,1.26111
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-03,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-03,maximo,2.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-04,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-04,media,1.71528
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-04,minimo,0.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-04,maximo,3.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-05,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-05,media,1.88472
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-05,minimo,0.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-05,maximo,3.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-06,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-06,media,0.970833
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-06,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-06,maximo,2.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-07,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-07,media,0.947222
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-07,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-07,maximo,2.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-08,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-08,media,1.25694
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-08,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-08,maximo,2.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-09,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-09,media,1.90417
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-09,minimo,0.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-09,maximo,3.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-10,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-10,media,1.50417
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-10,minimo,0.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-10,maximo,2.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-11,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-11,media,1.00764
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-11,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-11,maximo,1.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-12,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-12,media,1.18611
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-12,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-12,maximo,2.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-13,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-13,media,1.02083
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-13,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-13,maximo,2.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-14,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-14,media,0.915972
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-14,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-14,maximo,2.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-15,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-15,media,0.93125
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-15,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-15,maximo,2.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-16,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-16,media,0.685417
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-16,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-16,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-17,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-17,media,1.15486
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-17,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-17,maximo,2.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-18,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-18,media,2.34375
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-18,minimo,1.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-18,maximo,3.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-19,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-19,media,2.93611
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-19,minimo,1.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-19,maximo,4.9
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-20,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-20,media,3.06458
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-20,minimo,1.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-20,maximo,4.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-21,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-21,media,2.07847
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-21,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-21,maximo,4.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-22,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-22,media,1.59931
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-22,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-22,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-23,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-23,media,1.73889
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-23,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-23,maximo,3.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-24,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-24,media,1.4875
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-24,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-24,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-25,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-25,media,1.17014
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-25,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-25,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-26,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-26,media,0.95625
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-26,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-26,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-27,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-27,media,1.66667
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-27,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-27,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-28,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-28,media,1.40833
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-28,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-28,maximo,3.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-29,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-29,media,1.80556
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-29,minimo,0.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-29,maximo,2.9
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-30,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-30,media,1.55278
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-30,minimo,0.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-11-30,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-01,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-01,media,1.12569
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-01,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-01,maximo,2.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-02,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-02,media,1.09722
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-02,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-02,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-03,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-03,media,0.922222
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-03,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-03,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-04,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-04,media,2.60208
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-04,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-04,maximo,7.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-05,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-05,media,2.91319
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-05,minimo,0.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-05,maximo,7.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-06,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-06,media,1.15417
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-06,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-06,maximo,2.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-07,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-07,media,1.26806
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-07,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-07,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-08,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-08,media,1.09167
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-08,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-08,maximo,3.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-09,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-09,media,1.04583
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-09,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-09,maximo,2.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-10,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-10,media,0.815972
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-10,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-10,maximo,1.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-11,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-11,media,0.769444
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-11,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-11,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-12,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-12,media,0.89375
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-12,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-12,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-13,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-13,media,0.791667
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-13,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-13,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-14,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-14,media,1.38403
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-14,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-14,maximo,5.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-15,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-15,media,1.22639
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-15,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-15,maximo,2.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-16,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-16,media,1.37361
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-16,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-16,maximo,2.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-17,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-17,media,1.39167
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-17,minimo,0.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-17,maximo,2.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-18,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-18,media,1.13194
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-18,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-18,maximo,2.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-19,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-19,media,1.24792
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-19,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-19,maximo,2.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-20,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-20,media,1.15069
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-20,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-20,maximo,2.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-21,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-21,media,1.00833
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-21,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-21,maximo,1.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-22,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-22,media,1.08681
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-22,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-22,maximo,2.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-23,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-23,media,0.972917
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-23,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-23,maximo,2.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-24,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-24,media,0.795139
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-24,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-24,maximo,1.8
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-25,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-25,media,1.54167
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-25,minimo,0.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-25,maximo,3.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-26,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-26,media,1.77917
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-26,minimo,0.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-26,maximo,7.5
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-27,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-27,media,3.63194
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-27,minimo,0.6
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-27,maximo,7.2
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-28,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-28,media,3.14306
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-28,minimo,0.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-28,maximo,5.4
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-29,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-29,media,1.26944
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-29,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-29,maximo,3.7
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-30,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-30,media,1.19167
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-30,minimo,0.1
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-30,maximo,3.0
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-31,total,
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-31,media,1.33472
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-31,minimo,0.3
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,2022-12-31,maximo,2.7
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-01,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-01,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-01,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-01,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-02,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-02,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-02,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-02,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-03,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-03,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-03,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-03,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-04,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-04,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-04,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-04,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-05,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-05,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-05,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-05,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-06,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-06,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-06,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-06,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-07,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-07,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-07,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-07,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-08,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-08,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-08,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-08,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-09,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-09,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-09,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-09,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-10,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-10,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-10,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-10,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-11,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-11,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-11,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-11,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-12,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-12,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-12,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-12,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-13,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-13,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-13,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-13,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-14,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-14,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-14,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-14,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-15,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-15,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-15,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-15,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-16,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-16,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-16,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-16,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-17,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-17,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-17,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-17,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-18,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-18,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-18,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-18,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-19,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-19,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-19,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-19,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-20,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-20,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-20,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-20,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-21,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-21,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-21,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-21,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-22,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-22,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-22,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-22,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-23,total,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-23,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-23,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-23,maximo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-24,total,5681.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-24,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-24,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-24,maximo,194.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-25,total,7786.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-25,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-25,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-25,maximo,422.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-26,total,4298.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-26,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-26,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-26,maximo,273.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-27,total,29843.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-27,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-27,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-27,maximo,936.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-28,total,27094.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-28,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-28,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-28,maximo,1090.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-29,total,21632.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-29,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-29,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-29,maximo,699.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-30,total,21432.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-30,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-30,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-09-30,maximo,950.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-01,total,15941.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-01,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-01,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-01,maximo,916.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-02,total,34303.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-02,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-02,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-02,maximo,895.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-03,total,33011.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-03,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-03,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-03,maximo,879.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-04,total,16507.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-04,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-04,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-04,maximo,708.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-05,total,31665.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-05,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-05,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-05,maximo,829.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-06,total,20255.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-06,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-06,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-06,maximo,806.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-07,total,12609.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-07,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-07,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-07,maximo,663.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-08,total,12119.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-08,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-08,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-08,maximo,684.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-09,total,3438.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-09,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-09,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-09,maximo,131.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-10,total,9775.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-10,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-10,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-10,maximo,409.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-11,total,21176.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-11,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-11,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-11,maximo,863.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-12,total,34675.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-12,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-12,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-12,maximo,988.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-13,total,15266.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-13,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-13,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-13,maximo,970.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-14,total,4368.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-14,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-14,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-14,maximo,214.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-15,total,8995.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-15,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-15,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-15,maximo,409.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-16,total,32109.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-16,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-16,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-16,maximo,948.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-17,total,31960.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-17,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-17,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-17,maximo,951.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-18,total,30906.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-18,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-18,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-18,maximo,868.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-19,total,30296.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-19,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-19,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-19,maximo,873.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-20,total,34286.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-20,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-20,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-20,maximo,887.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-21,total,31708.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-21,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-21,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-21,maximo,941.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-22,total,28739.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-22,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-22,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-22,maximo,917.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-23,total,14638.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-23,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-23,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-23,maximo,873.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-24,total,21321.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-24,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-24,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-24,maximo,889.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-25,total,22290.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-25,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-25,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-25,maximo,979.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-26,total,15551.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-26,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-26,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-26,maximo,938.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-27,total,27973.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-27,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-27,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-27,maximo,879.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-28,total,25445.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-28,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-28,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-28,maximo,828.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-29,total,27020.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-29,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-29,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-29,maximo,893.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-30,total,28275.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-30,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-30,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-30,maximo,939.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-31,total,25937.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-31,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-31,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-10-31,maximo,765.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-01,total,27850.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-01,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-01,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-01,maximo,779.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-02,total,28730.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-02,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-02,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-02,maximo,763.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-03,total,22014.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-03,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-03,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-03,maximo,894.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-04,total,15843.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-04,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-04,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-04,maximo,723.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-05,total,21910.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-05,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-05,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-05,maximo,948.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-06,total,17842.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-06,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-06,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-06,maximo,809.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-07,total,29778.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-07,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-07,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-07,maximo,773.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-08,total,26515.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-08,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-08,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-08,maximo,774.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-09,total,21846.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-09,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-09,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-09,maximo,830.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-10,total,30112.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-10,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-10,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-10,maximo,787.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-11,total,22024.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-11,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-11,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-11,maximo,861.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-12,total,25772.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-12,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-12,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-12,maximo,897.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-13,total,8739.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-13,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-13,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-13,maximo,332.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-14,total,30528.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-14,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-14,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-14,maximo,844.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-15,total,32989.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-15,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-15,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-15,maximo,881.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-16,total,27872.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-16,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-16,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-16,maximo,754.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-17,total,25875.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-17,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-17,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-17,maximo,899.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-18,total,22933.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-18,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-18,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-18,maximo,882.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-19,total,21720.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-19,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-19,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-19,maximo,836.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-20,total,13670.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-20,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-20,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-20,maximo,830.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-21,total,17610.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-21,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-21,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-21,maximo,851.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-22,total,18194.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-22,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-22,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-22,maximo,734.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-23,total,11344.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-23,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-23,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-23,maximo,832.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-24,total,17089.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-24,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-24,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-24,maximo,743.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-25,total,24524.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-25,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-25,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-25,maximo,695.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-26,total,26247.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-26,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-26,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-26,maximo,704.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-27,total,21626.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-27,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-27,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-27,maximo,687.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-28,total,20542.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-28,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-28,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-28,maximo,701.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-29,total,10531.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-29,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-29,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-29,maximo,475.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-30,total,15192.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-30,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-30,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-11-30,maximo,620.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-01,total,23525.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-01,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-01,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-01,maximo,727.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-02,total,17900.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-02,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-02,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-02,maximo,709.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-03,total,7886.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-03,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-03,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-03,maximo,514.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-04,total,25591.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-04,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-04,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-04,maximo,709.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-05,total,17448.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-05,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-05,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-05,maximo,731.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-06,total,24040.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-06,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-06,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-06,maximo,809.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-07,total,3549.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-07,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-07,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-07,maximo,325.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-08,total,11119.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-08,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-08,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-08,maximo,729.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-09,total,19092.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-09,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-09,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-09,maximo,740.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-10,total,22094.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-10,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-10,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-10,maximo,903.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-11,total,24194.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-11,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-11,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-11,maximo,661.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-12,total,15168.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-12,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-12,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-12,maximo,726.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-13,total,24203.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-13,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-13,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-13,maximo,661.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-14,total,13037.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-14,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-14,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-14,maximo,688.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-15,total,9916.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-15,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-15,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-15,maximo,630.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-16,total,16148.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-16,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-16,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-16,maximo,657.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-17,total,18208.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-17,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-17,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-17,maximo,705.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-18,total,23927.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-18,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-18,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-18,maximo,682.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-19,total,24485.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-19,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-19,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-19,maximo,658.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-20,total,24185.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-20,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-20,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-20,maximo,671.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-21,total,24642.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-21,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-21,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-21,maximo,665.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-22,total,24936.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-22,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-22,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-22,maximo,673.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-23,total,25030.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-23,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-23,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-23,maximo,678.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-24,total,24918.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-24,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-24,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-24,maximo,675.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-25,total,24721.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-25,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-25,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-25,maximo,677.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-26,total,4332.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-26,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-26,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-26,maximo,194.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-27,total,9905.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-27,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-27,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-27,maximo,406.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-28,total,22576.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-28,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-28,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-28,maximo,703.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-29,total,15428.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-29,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-29,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-29,maximo,627.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-30,total,21987.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-30,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-30,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-30,maximo,667.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-31,total,22004.0
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-31,media,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-31,minimo,
+204,Imetos_Mazape,1312,RAD,Radiación solar,2022-12-31,maximo,620.0

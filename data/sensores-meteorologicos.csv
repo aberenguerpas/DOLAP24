@@ -1,0 +1,342 @@
+﻿estacion_id,estacion_nombre,sensor_id,sensor_alias,sensor_nombre,sensor_unidad,sensor_modelo,sensor_fabricante,sensor_tipo_instalacion
+1,ARICO_01,280,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+1,ARICO_01,281,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+1,ARICO_01,282,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+1,ARICO_01,288,RAD,Radiación solar,w/sm,CM6,Kipp&Zonen,Aire
+1,ARICO_01,283,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+1,ARICO_01,285,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+2,GALLETAS,352,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+2,GALLETAS,358,RAD,Radiación solar,w/sm,CM6,Kipp&Zonen,Aire
+2,GALLETAS,355,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+2,GALLETAS,353,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+2,GALLETAS,351,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+2,GALLETAS,350,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+5,GUIAIS01,405,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+5,GUIAIS01,413,RAD,Radiación solar,w/sm,CM6,Kipp&Zonen,Aire
+5,GUIAIS01,410,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+5,GUIAIS01,408,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+5,GUIAIS01,407,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+5,GUIAIS01,406,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+7,OROTAV01,666,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+7,OROTAV01,674,RAD,Radiación solar,w/sm,CM6,Kipp&Zonen,Aire
+7,OROTAV01,671,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+7,OROTAV01,669,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+7,OROTAV01,668,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+7,OROTAV01,667,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+9,HELECHO1,240,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+9,HELECHO1,243,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+9,HELECHO1,235,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+9,HELECHO1,236,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+9,HELECHO1,237,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+9,HELECHO1,238,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+10,RAVELO01,776,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+10,RAVELO01,774,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+10,RAVELO01,773,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+10,RAVELO01,772,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+10,RAVELO01,771,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+10,RAVELO01,779,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+11,TEJINA01,792,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+11,TEJINA01,795,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+11,TEJINA01,788,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+11,TEJINA01,789,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+11,TEJINA01,790,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+11,TEJINA01,787,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+12,GUAN1HA1,554,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+12,GUAN1HA1,546,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+12,GUAN1HA1,547,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+12,GUAN1HA1,548,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+12,GUAN1HA1,549,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+12,GUAN1HA1,551,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+13,VILAFLOR,313,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+13,VILAFLOR,305,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+13,VILAFLOR,306,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+13,VILAFLOR,307,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+13,VILAFLOR,308,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+13,VILAFLOR,310,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+54,TOPONEGR,185,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+54,TOPONEGR,183,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+54,TOPONEGR,180,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+54,TOPONEGR,182,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+54,TOPONEGR,188,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+55,ABONACOP,267,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+55,ABONACOP,266,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+55,ABONACOP,265,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+55,ABONACOP,270,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+55,ABONACOP,268,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+55,ABONACOP,273,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+56,TEGUESTE,803,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+56,TEGUESTE,802,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+56,TEGUESTE,804,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+56,TEGUESTE,810,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+56,TEGUESTE,807,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+56,TEGUESTE,805,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+57,LLANITOP,573,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+57,LLANITOP,579,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+57,LLANITOP,576,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+57,LLANITOP,574,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+57,LLANITOP,571,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+58,RATINO 01,644,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+58,RATINO 01,646,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+58,RATINO 01,643,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+58,RATINO 01,641,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+58,RATINO 01,649,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+60,ELVIENTO,1270,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+60,ELVIENTO,1267,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+61,ANAVISTH,167,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+61,ANAVISTH,168,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+61,ANAVISTH,170,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+61,ANAVISTH,169,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+61,ANAVISTH,165,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+62,TRIGOTH,507,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+62,TRIGOTH,505,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+62,TRIGOTH,508,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+62,TRIGOTH,510,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+62,TRIGOTH,509,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+63,URSULATH,686,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+63,URSULATH,683,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+63,URSULATH,684,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+63,URSULATH,681,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+63,URSULATH,685,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+64,HOYOSTH,465,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+64,HOYOSTH,467,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+64,HOYOSTH,468,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+64,HOYOSTH,470,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+64,HOYOSTH,473,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+65,PALMATH,480,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+65,PALMATH,483,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+65,PALMATH,482,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+65,PALMATH,485,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+65,PALMATH,488,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+66,TACORTH,756,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+66,TACORTH,758,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+66,TACORTH,764,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+66,TACORTH,761,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+66,TACORTH,759,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+67,MATANTH,743,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+67,MATANTH,744,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+67,MATANTH,746,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+67,MATANTH,749,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+67,MATANTH,741,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+68,VICTOTH,729,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+68,VICTOTH,726,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+68,VICTOTH,728,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+68,VICTOTH,734,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+68,VICTOTH,731,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+69,SUERTETH,634,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+69,SUERTETH,631,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+69,SUERTETH,629,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+69,SUERTETH,628,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+69,SUERTETH,626,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+70,BENIJTH,616,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+70,BENIJTH,614,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+70,BENIJTH,613,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+70,BENIJTH,611,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+70,BENIJTH,619,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+71,PALOBTH,827,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+71,PALOBTH,833,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+71,PALOBTH,830,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+71,PALOBTH,828,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+71,PALOBTH,525,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+73,REDONTH,588,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+73,REDONTH,594,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+73,REDONTH,591,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+73,REDONTH,589,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+73,REDONTH,586,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+74,CHIOTH,435,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+74,CHIOTH,443,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+74,CHIOTH,440,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+74,CHIOTH,438,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+74,CHIOTH,437,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+75,GUIATH,392,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+75,GUIATH,398,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+75,GUIATH,395,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+75,GUIATH,393,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+75,GUIATH,390,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+76,POZOTH,420,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+76,POZOTH,425,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+76,POZOTH,428,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+76,POZOTH,422,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+76,POZOTH,423,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+77,PINALTH,322,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+77,PINALTH,325,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+77,PINALTH,320,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+77,PINALTH,323,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+77,PINALTH,328,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+78,SMIGTH,340,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+78,SMIGTH,337,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+78,SMIGTH,338,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+78,SMIGTH,343,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+78,SMIGTH,335,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+80,BADAJTH,203,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+80,BADAJTH,200,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+80,BADAJTH,198,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+80,BADAJTH,197,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+80,BADAJTH,195,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+81,MENATH,215,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+81,MENATH,218,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+81,MENATH,212,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+81,MENATH,213,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+81,MENATH,210,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+82,URSUMEDI,698,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+82,URSUMEDI,697,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+82,URSUMEDI,699,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+82,URSUMEDI,701,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+82,URSUMEDI,704,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+82,URSUMEDI,696,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+83,URSUBAJA,719,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+83,URSUBAJA,714,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+83,URSUBAJA,713,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+83,URSUBAJA,711,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+83,URSUBAJA,712,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+83,URSUBAJA,716,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+85,ICOR,258,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+85,ICOR,253,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+85,ICOR,251,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+85,ICOR,250,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+85,ICOR,252,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+85,ICOR,255,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+86,ELROSARIO,142,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+86,ELROSARIO,143,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+86,ELROSARIO,145,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+86,ELROSARIO,148,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+86,ELROSARIO,140,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+87,AGUAMANSA_MA,662,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+87,AGUAMANSA_MA,656,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+87,AGUAMANSA_MA,657,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+87,AGUAMANSA_MA,658,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+87,AGUAMANSA_MA,659,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+87,AGUAMANSA_MA,660,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+88,GAITERO_MA,820,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+88,GAITERO_MA,821,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+88,GAITERO_MA,823,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+88,GAITERO_MA,819,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+88,GAITERO_MA,818,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+88,GAITERO_MA,817,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+89,CHAVAO_MA,386,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+89,CHAVAO_MA,384,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+89,CHAVAO_MA,381,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+89,CHAVAO_MA,382,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+89,CHAVAO_MA,380,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+89,CHAVAO_MA,383,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+90,PICACHO_MA,227,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+90,PICACHO_MA,228,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+90,PICACHO_MA,229,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+90,PICACHO_MA,225,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+90,PICACHO_MA,226,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+90,PICACHO_MA,231,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+91,GALECUBO_N,498,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+91,GALECUBO_N,501,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+91,GALECUBO_N,499,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+91,GALECUBO_N,497,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+91,GALECUBO_N,496,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+91,GALECUBO_N,495,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+92,SANTA_CRUZ,134,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+92,SANTA_CRUZ,133,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+92,SANTA_CRUZ,136,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+92,SANTA_CRUZ,131,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+92,SANTA_CRUZ,132,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+92,SANTA_CRUZ,130,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+93,HOYA_GRANDE,370,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+93,HOYA_GRANDE,368,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+93,HOYA_GRANDE,367,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+93,HOYA_GRANDE,365,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+93,HOYA_GRANDE,366,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+93,HOYA_GRANDE,373,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+94,TOPO_MA,301,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+94,TOPO_MA,298,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+94,TOPO_MA,299,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+94,TOPO_MA,296,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+94,TOPO_MA,295,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+94,TOPO_MA,297,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+95,ALCALA,451,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+95,ALCALA,450,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+95,ALCALA,458,RAD,Radiación solar,w/sm,CM6,Kipp&Zonen,Aire
+95,ALCALA,455,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+95,ALCALA,453,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+95,ALCALA,452,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+96,ARAYA,155,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+96,ARAYA,158,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+96,ARAYA,161,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+96,ARAYA,157,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+96,ARAYA,159,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+96,ARAYA,156,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+97,TAGANANA,126,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+97,TAGANANA,120,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+97,TAGANANA,122,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+97,TAGANANA,123,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+97,TAGANANA,124,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+97,TAGANANA,121,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+98,DRAGO,565,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+98,DRAGO,561,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+98,DRAGO,562,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+98,DRAGO,563,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+98,DRAGO,564,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+98,DRAGO,567,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+101,IGUESTE,103,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+101,IGUESTE,106,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+101,IGUESTE,101,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+101,IGUESTE,100,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+101,IGUESTE,102,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+101,IGUESTE,104,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+102,BVISTA02,542,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+102,BVISTA02,537,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+102,BVISTA02,539,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+102,BVISTA02,538,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+102,BVISTA02,540,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+102,BVISTA02,536,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+103,SILOS,522,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Thies Clima,Aire
+103,SILOS,523,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Thies Clima,Aire
+103,SILOS,526,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+103,SILOS,529,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+103,SILOS,520,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Thies Clima,Aire
+103,SILOS,521,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Small Model,Thies Clima,Aire
+105,BAILADERO,111,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+105,BAILADERO,112,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+105,BAILADERO,116,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+105,BAILADERO,114,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+105,BAILADERO,113,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+105,BAILADERO,110,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+106,REALETH_N,601,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+106,REALETH_N,603,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+106,REALETH_N,604,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+106,REALETH_N,605,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+106,REALETH_N,607,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+106,REALETH_N,602,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+181,ERES,1132,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+181,ERES,1136,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+181,ERES,1135,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+181,ERES,1134,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+181,ERES,1133,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+181,ERES,1138,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+190,LAGUNA,1145,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+190,LAGUNA,1142,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+190,LAGUNA,1143,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+190,LAGUNA,1144,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+190,LAGUNA,1146,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+190,LAGUNA,1148,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+194,LaQuinta,1265,RAD,Radiación solar,w/sm,CM3,Kipp&Zonen,Aire
+194,LaQuinta,1262,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+194,LaQuinta,1264,RAIN,Precipitación,mm,Precipitation Transmitter,Thies Clima,Aire
+194,LaQuinta,1263,HUM,Humedad relativa,%,Hygro-Thermo Transmitter-compact,Thies Clima,Aire
+194,LaQuinta,1260,WSP,Velocidad del viento,m/s,Wind Transmitter - compact,Thies Clima,Aire
+194,LaQuinta,1261,WDR,Dirección del viento,deg.,Wind Direction Transmitter - Compact Model,Thies Clima,Aire
+198,Imetos_Ravelo,1288,RAD,Radiación solar,w/sm,,Pessl instruments,Aire
+198,Imetos_Ravelo,1284,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Pessl instruments,Aire
+198,Imetos_Ravelo,1286,RAIN,Precipitación,mm,Precipitation Transmitter,Pessl instruments,Aire
+198,Imetos_Ravelo,1285,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Pessl instruments,Aire
+198,Imetos_Ravelo,1287,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Pessl instruments,Aire
+199,Imetos_Tacoronte,1293,RAIN,Precipitación,mm,Precipitation Transmitter,Pessl instruments,Aire
+199,Imetos_Tacoronte,1291,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Pessl instruments,Aire
+199,Imetos_Tacoronte,1292,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Pessl instruments,Aire
+199,Imetos_Tacoronte,1294,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Pessl instruments,Aire
+199,Imetos_Tacoronte,1295,RAD,Radiación solar,w/sm,,Pessl instruments,Aire
+201,Imetos_Trevejos,1298,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Pessl instruments,Aire
+201,Imetos_Trevejos,1299,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Pessl instruments,Aire
+201,Imetos_Trevejos,1300,RAIN,Precipitación,mm,Precipitation Transmitter,Pessl instruments,Aire
+201,Imetos_Trevejos,1301,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Pessl instruments,Aire
+201,Imetos_Trevejos,1302,RAD,Radiación solar,w/sm,,Pessl instruments,Aire
+204,Imetos_Mazape,1308,TEMP,Temperatura,deg. C,Hygro-Thermo Transmitter,Pessl instruments,Aire
+204,Imetos_Mazape,1310,RAIN,Precipitación,mm,Precipitation Transmitter,Pessl instruments,Aire
+204,Imetos_Mazape,1312,RAD,Radiación solar,w/sm,,Pessl instruments,Aire
+204,Imetos_Mazape,1311,WSP,Velocidad del viento,m/s,Small Wind Transmitter,Pessl instruments,Aire
+204,Imetos_Mazape,1309,HUM,Humedad relativa,%,Hygro-Thermo Transmitter,Pessl instruments,Aire
