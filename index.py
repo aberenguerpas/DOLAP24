@@ -26,6 +26,7 @@ def find_delimiter(filename):
     return delimiter
 
 
+# Saca embeddings de cada columna
 def content_embs(model, df, model_name, size):
     all_embs = np.empty((0, size), dtype=np.float32)
     for col in df.columns:
@@ -58,6 +59,8 @@ def main():
     parser.add_argument('-i', '--input', default='./data/', help='Name of the input folder storing CSV tables')
     parser.add_argument('-m', '--model', default='all',
                         choices=['all', 'uae-large', 'bge-large', 'bge-base', 'ember', 'gte-large', 'gte-base', 'stb'])
+    parser.add_argument('-t', '--type', default='col',
+                        choices=['col', 'tab']) # Si indexa las columnas o las promedia en un único embedding
     parser.add_argument('-r', '--result', default='./indexs',
                         help='Name of the output folder that stores the indexs files')
 
@@ -136,23 +139,36 @@ def main():
 
                 df = df[-size:]
                 embs = content_embs(model, df, model_name, dimensions)
+
                 faiss.normalize_L2(embs)
-                index.add_with_ids(embs, np.array(range(id, id+len(embs))))
 
-                for i in range(id, id+len(embs)):
-                    new_row = {"id": i, "dataset": file}
+                if args.type == 'tab':
+                    # Se promedian los embeddigs de cada tabla
+                    embs = np.mean(embs, axis=0, dtype=np.float32)
+                    index.add_with_ids(np.array([embs]), np.array([id]))
+
+                    new_row = {"id": id, "dataset": file}
                     map = pd.concat([map, pd.DataFrame([new_row])], ignore_index=True)
+                    id += 1
+                else:
+                    index.add_with_ids(embs, np.array(range(id, id+len(embs))))
 
-                id += len(embs)
+                    for i in range(id, id+len(embs)):
+                        new_row = {"id": i, "dataset": file}
+                        map = pd.concat([map, pd.DataFrame([new_row])], ignore_index=True)
+
+                    id += len(embs)
             except Exception as e:
                 print('Error en archivo', file)
                 print(e)
 
-        # Save index
-        faiss.write_index(index, "./indexs/"+model_name+".index")
-
-        # Save ids - datasets
-        map.to_csv("./indexs/"+model_name+"_map.csv", index=False)
+        # Save index and ids datasets
+        if args.type == 'tab':
+            faiss.write_index(index, "./indexs/tab_"+model_name+".index")
+            map.to_csv("./indexs/tab_"+model_name+"_map.csv", index=False)
+        else:
+            faiss.write_index(index, "./indexs/"+model_name+".index")
+            map.to_csv("./indexs/"+model_name+"_map.csv", index=False)
 
 
 if __name__ == "__main__":

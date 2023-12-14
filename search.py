@@ -62,6 +62,8 @@ def main():
     parser.add_argument('-i', '--input', default='./data/', help='Name of the input folder storing CSV tables')
     parser.add_argument('-m', '--model', default='all',
                         choices=['all', 'uae-large', 'bge-large', 'bge-base', 'embe', 'gte-large', 'gte-base', 'stb'])
+    parser.add_argument('-t', '--type', default='col',
+                        choices=['col', 'tab']) # Si indexa las columnas o las promedia en un único embedding
     parser.add_argument('-r', '--result', default='./indexs',
                         help='Name of the output folder that stores the indexs files')
 
@@ -115,9 +117,12 @@ def main():
             model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
             dimensions = 384
 
-        index = faiss.read_index("./indexs/"+model_name+".index")
-
-        map = pd.read_csv("indexs/"+model_name+"_map.csv")
+        if args.type == 'tab':
+            index = faiss.read_index("./indexs/tab_"+model_name+".index")
+            map = pd.read_csv("indexs/tab_"+model_name+"_map.csv")
+        else:
+            index = faiss.read_index("./indexs/"+model_name+".index")
+            map = pd.read_csv("indexs/"+model_name+"_map.csv")
 
         files = read_files(files_path)
         n_docs = len(files)
@@ -147,29 +152,46 @@ def main():
                 # Get embeddings
                 embs = content_embs(model, df, model_name, dimensions)
 
+                faiss.normalize_L2(embs)
+
                 rank = {}
-                results = pd.DataFrame()
-                for col, emb in enumerate(embs):
-                    distances, ann = index.search(np.array([emb]), k=n_docs)
-                    results_aux = pd.DataFrame({'distances': distances[0], 'ann': ann[0], 'col': col})
+
+                if args.type == 'tab':
+                    results = pd.DataFrame()
+                    tab_emb = np.mean(embs, axis=0, dtype=np.float32)
+                    distances, ann = index.search(np.array([tab_emb]), k=20)
+                    results_aux = pd.DataFrame({'distances': distances[0], 'ann': ann[0]})
                     results_aux = pd.merge(results_aux, map, left_on="ann", right_on="id")
                     results = pd.concat([results, results_aux])
 
-                for candidate in list(dict.fromkeys(results['dataset'].tolist())):
-                    aux = results[results['dataset'] == candidate]
+                    for i in results.index:
+                        rank[results['dataset'][i]] = results['distances'][i]
+                    
+                    sorted_d = rank
+                else:
+                    results = pd.DataFrame()
+                    for col, emb in enumerate(embs):
+                        distances, ann = index.search(np.array([emb]), k=n_docs)
+                        results_aux = pd.DataFrame({'distances': distances[0], 'ann': ann[0], 'col': col})
+                        results_aux = pd.merge(results_aux, map, left_on="ann", right_on="id")
+                        results = pd.concat([results, results_aux])
 
-                    total = 0
-                    for i in range(len(df.columns)):
-                        similarity = aux[aux['col'] == i]['distances'].max()
-                        if similarity is not np.nan:
-                            total += similarity
-                        else:
-                            total += 0
+                    for candidate in list(dict.fromkeys(results['dataset'].tolist())):
+                        aux = results[results['dataset'] == candidate]
 
-                    rank[candidate] = total/len(df.columns)
+                        total = 0
+                        for i in range(len(df.columns)):
+                            similarity = aux[aux['col'] == i]['distances'].max()
+                            if similarity is not np.nan:
+                                total += similarity
+                            else:
+                                total += 0
 
-                sorted_d = dict(sorted(rank.items(), key=operator.itemgetter(1), reverse=True))
+                        rank[candidate] = total/len(df.columns)
 
+
+                        sorted_d = dict(sorted(rank.items(), key=operator.itemgetter(1), reverse=True))
+                
                 counter = 1
                 #print("------")
                 #print(file)
